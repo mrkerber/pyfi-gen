@@ -1,0 +1,5368 @@
+{
+    "descriptor": [
+        {
+            "segment": "Time travelling",
+            "anthropomorphic": "Y",
+            "emotionable": "Y",
+            "locational": "N",
+            "technical": "Y",
+            "scifi-related": "Y"
+        },
+        {
+            "segment": "Futuristic",
+            "anthropomorphic": "Y",
+            "emotionable": "Y",
+            "locational": "Y",
+            "technical": "Y",
+            "scifi-related": "Y"
+        },
+        {
+            "segment": "Militaristic",
+            "anthropomorphic": "Y",
+            "emotionable": "Y",
+            "locational": "N",
+            "technical": "Y",
+            "scifi-related": "N"
+        },
+        {
+            "segment": "Bio-enhanced",
+            "anthropomorphic": "Y",
+            "emotionable": "N",
+            "locational": "Y",
+            "technical": "Y",
+            "scifi-related": "Y"
+        },
+        {
+            "segment": "Fortune telling",
+            "anthropomorphic": "Y",
+            "emotionable": "Y",
+            "locational": "N",
+            "technical": "Y",
+            "scifi-related": "Y"
+        },
+        {
+            "segment": "Omniscient",
+            "anthropomorphic": "Y",
+            "emotionable": "Y",
+            "locational": "Y",
+            "technical": "Y",
+            "scifi-related": "Y"
+        },
+        {
+            "segment": "Advanced",
+            "anthropomorphic": "Y",
+            "emotionable": "Y",
+            "locational": "Y",
+            "technical": "Y",
+            "scifi-related": "Y"
+        },
+        {
+            "segment": "omnipotent",
+            "anthropomorphic": "Y",
+            "emotionable": "Y",
+            "locational": "Y",
+            "technical": "Y",
+            "scifi-related": "Y"
+        },
+        {
+            "segment": "Exploding",
+            "anthropomorphic": "Y",
+            "emotionable": "N",
+            "locational": "Y",
+            "technical": "Y",
+            "scifi-related": "Y"
+        },
+        {
+            "segment": "Light-Speed",
+            "anthropomorphic": "Y",
+            "emotionable": "Y",
+            "locational": "Y",
+            "technical": "Y",
+            "scifi-related": "Y"
+        },
+        {
+            "segment": "Faster than Light",
+            "anthropomorphic": "Y",
+            "emotionable": "Y",
+            "locational": "Y",
+            "technical": "Y",
+            "scifi-related": "Y"
+        },
+        {
+            "segment": "Genetically Enhanced",
+            "anthropomorphic": "Y",
+            "emotionable": "N",
+            "locational": "Y",
+            "technical": "Y",
+            "scifi-related": "Y"
+        },
+        {
+            "segment": "Laser-weilding",
+            "anthropomorphic": "Y",
+            "emotionable": "N",
+            "locational": "N",
+            "technical": "N",
+            "scifi-related": "Y"
+        },
+        {
+            "segment": "Invisible",
+            "anthropomorphic": "Y",
+            "emotionable": "Y",
+            "locational": "Y",
+            "technical": "Y",
+            "scifi-related": "Y"
+        },
+        {
+            "segment": "Malfunctioning",
+            "anthropomorphic": "Y",
+            "emotionable": "N",
+            "locational": "Y",
+            "technical": "Y",
+            "scifi-related": "N"
+        },
+        {
+            "segment": "Gravity Defying",
+            "anthropomorphic": "Y",
+            "emotionable": "N",
+            "locational": "Y",
+            "technical": "Y",
+            "scifi-related": "Y"
+        },
+        {
+            "segment": "Newly Discovered",
+            "anthropomorphic": "Y",
+            "emotionable": "Y",
+            "locational": "Y",
+            "technical": "Y",
+            "scifi-related": "Y"
+        },
+        {
+            "segment": "Orbiting",
+            "anthropomorphic": "Y",
+            "emotionable": "N",
+            "locational": "Y",
+            "technical": "Y",
+            "scifi-related": "Y"
+        },
+        {
+            "segment": "Illegal",
+            "anthropomorphic": "Y",
+            "emotionable": "Y",
+            "locational": "Y",
+            "technical": "Y",
+            "scifi-related": "N"
+        },
+        {
+            "segment": "Malicious",
+            "anthropomorphic": "Y",
+            "emotionable": "Y",
+            "locational": "N",
+            "technical": "Y",
+            "scifi-related": "N"
+        },
+        {
+            "segment": "Radioactive",
+            "anthropomorphic": "Y",
+            "emotionable": "Y",
+            "locational": "Y",
+            "technical": "Y",
+            "scifi-related": "Y"
+        },
+        {
+            "segment": "Depressed",
+            "anthropomorphic": "Y",
+            "emotionable": "Y",
+            "locational": "N",
+            "technical": "N",
+            "scifi-related": "N"
+        },
+        {
+            "segment": "Quantum",
+            "anthropomorphic": "Y",
+            "emotionable": "Y",
+            "locational": "Y",
+            "technical": "Y",
+            "scifi-related": "Y"
+        },
+        {
+            "segment": "Martian",
+            "anthropomorphic": "Y",
+            "emotionable": "Y",
+            "locational": "Y",
+            "technical": "Y",
+            "scifi-related": "Y"
+        },
+        {
+            "segment": "Lunar",
+            "anthropomorphic": "Y",
+            "emotionable": "Y",
+            "locational": "Y",
+            "technical": "Y",
+            "scifi-related": "Y"
+        },
+        {
+            "segment": "4th-Dimensional",
+            "anthropomorphic": "Y",
+            "emotionable": "Y",
+            "locational": "Y",
+            "technical": "Y",
+            "scifi-related": "Y"
+        },
+        {
+            "segment": "Cybernetically Enhanced",
+            "anthropomorphic": "Y",
+            "emotionable": "N",
+            "locational": "Y",
+            "technical": "Y",
+            "scifi-related": "Y"
+        },
+        {
+            "segment": "Sword weilding",
+            "anthropomorphic": "Y",
+            "emotionable": "N",
+            "locational": "N",
+            "technical": "N",
+            "scifi-related": "Y"
+        },
+        {
+            "segment": "Neurally-Linked",
+            "anthropomorphic": "Y",
+            "emotionable": "N",
+            "locational": "N",
+            "technical": "Y",
+            "scifi-related": "Y"
+        },
+        {
+            "segment": "Oppressive",
+            "anthropomorphic": "Y",
+            "emotionable": "Y",
+            "locational": "Y",
+            "technical": "Y",
+            "scifi-related": "N"
+        },
+        {
+            "segment": "Rebellious",
+            "anthropomorphic": "Y",
+            "emotionable": "Y",
+            "locational": "N",
+            "technical": "N",
+            "scifi-related": "N"
+        },
+        {
+            "segment": "Co-existing",
+            "anthropomorphic": "Y",
+            "emotionable": "Y",
+            "locational": "N",
+            "technical": "N",
+            "scifi-related": "N"
+        },
+        {
+            "segment": "Nuclear",
+            "anthropomorphic": "Y",
+            "emotionable": "N",
+            "locational": "Y",
+            "technical": "Y",
+            "scifi-related": "Y"
+        },
+        {
+            "segment": "Devoted",
+            "anthropomorphic": "Y",
+            "emotionable": "Y",
+            "locational": "N",
+            "technical": "N",
+            "scifi-related": "N"
+        },
+        {
+            "segment": "Old",
+            "anthropomorphic": "Y",
+            "emotionable": "Y",
+            "locational": "Y",
+            "technical": "Y",
+            "scifi-related": "N"
+        },
+        {
+            "segment": "Underwater",
+            "anthropomorphic": "Y",
+            "emotionable": "N",
+            "locational": "Y",
+            "technical": "Y",
+            "scifi-related": "Y"
+        },
+        {
+            "segment": "Friendly",
+            "anthropomorphic": "Y",
+            "emotionable": "Y",
+            "locational": "N",
+            "technical": "N",
+            "scifi-related": "N"
+        },
+        {
+            "segment": "Evil",
+            "anthropomorphic": "Y",
+            "emotionable": "Y",
+            "locational": "N",
+            "technical": "N",
+            "scifi-related": "N"
+        },
+        {
+            "segment": "Powerful",
+            "anthropomorphic": "Y",
+            "emotionable": "Y",
+            "locational": "Y",
+            "technical": "Y",
+            "scifi-related": "N"
+        },
+        {
+            "segment": "Reluctant",
+            "anthropomorphic": "Y",
+            "emotionable": "Y",
+            "locational": "N",
+            "technical": "N",
+            "scifi-related": "N"
+        },
+        {
+            "segment": "Hyper-Intelligent",
+            "anthropomorphic": "Y",
+            "emotionable": "Y",
+            "locational": "N",
+            "technical": "Y",
+            "scifi-related": "Y"
+        },
+        {
+            "segment": "Betrayed",
+            "anthropomorphic": "Y",
+            "emotionable": "Y",
+            "locational": "N",
+            "technical": "N",
+            "scifi-related": "N"
+        },
+        {
+            "segment": "Treacherous",
+            "anthropomorphic": "Y",
+            "emotionable": "N",
+            "locational": "Y",
+            "technical": "Y",
+            "scifi-related": "N"
+        },
+        {
+            "segment": "Fierce",
+            "anthropomorphic": "Y",
+            "emotionable": "Y",
+            "locational": "N",
+            "technical": "Y",
+            "scifi-related": "N"
+        },
+        {
+            "segment": "Nomadic",
+            "anthropomorphic": "Y",
+            "emotionable": "N",
+            "locational": "N",
+            "technical": "N",
+            "scifi-related": "N"
+        },
+        {
+            "segment": "Barbaric",
+            "anthropomorphic": "Y",
+            "emotionable": "N",
+            "locational": "Y",
+            "technical": "Y",
+            "scifi-related": "N"
+        },
+        {
+            "segment": "Totalitarian",
+            "anthropomorphic": "Y",
+            "emotionable": "N",
+            "locational": "Y",
+            "technical": "N",
+            "scifi-related": "N"
+        },
+        {
+            "segment": "Outlawed",
+            "anthropomorphic": "Y",
+            "emotionable": "Y",
+            "locational": "Y",
+            "technical": "Y",
+            "scifi-related": "N"
+        },
+        {
+            "segment": "Prophetic",
+            "anthropomorphic": "Y",
+            "emotionable": "Y",
+            "locational": "N",
+            "technical": "Y",
+            "scifi-related": "Y"
+        },
+        {
+            "segment": "Perilous",
+            "anthropomorphic": "N",
+            "emotionable": "N",
+            "locational": "Y",
+            "technical": "Y",
+            "scifi-related": "N"
+        },
+        {
+            "segment": "Flawed",
+            "anthropomorphic": "Y",
+            "emotionable": "Y",
+            "locational": "Y",
+            "technical": "Y",
+            "scifi-related": "N"
+        },
+        {
+            "segment": "Satirical",
+            "anthropomorphic": "Y",
+            "emotionable": "Y",
+            "locational": "Y",
+            "technical": "Y",
+            "scifi-related": "N"
+        },
+        {
+            "segment": "Burnt-Out",
+            "anthropomorphic": "Y",
+            "emotionable": "Y",
+            "locational": "Y",
+            "technical": "Y",
+            "scifi-related": "N"
+        },
+        {
+            "segment": "Only-Remaining",
+            "anthropomorphic": "Y",
+            "emotionable": "Y",
+            "locational": "Y",
+            "technical": "Y",
+            "scifi-related": "Y"
+        },
+        {
+            "segment": "Obsolete",
+            "anthropomorphic": "Y",
+            "emotionable": "N",
+            "locational": "N",
+            "technical": "Y",
+            "scifi-related": "Y"
+        },
+        {
+            "segment": "Elite",
+            "anthropomorphic": "Y",
+            "emotionable": "Y",
+            "locational": "N",
+            "technical": "Y",
+            "scifi-related": "Y"
+        },
+        {
+            "segment": "Formulaic",
+            "anthropomorphic": "Y",
+            "emotionable": "Y",
+            "locational": "N",
+            "technical": "N",
+            "scifi-related": "N"
+        },
+        {
+            "segment": "Primitive",
+            "anthropomorphic": "Y",
+            "emotionable": "Y",
+            "locational": "Y",
+            "technical": "Y",
+            "scifi-related": "Y"
+        },
+        {
+            "segment": "Virtual",
+            "anthropomorphic": "Y",
+            "emotionable": "Y",
+            "locational": "Y",
+            "technical": "Y",
+            "scifi-related": "Y"
+        },
+        {
+            "segment": "Superhuman",
+            "anthropomorphic": "Y",
+            "emotionable": "N",
+            "locational": "N",
+            "technical": "N",
+            "scifi-related": "Y"
+        },
+        {
+            "segment": "Magical",
+            "anthropomorphic": "Y",
+            "emotionable": "Y",
+            "locational": "Y",
+            "technical": "Y",
+            "scifi-related": "Y"
+        },
+        {
+            "segment": "Obssessive",
+            "anthropomorphic": "Y",
+            "emotionable": "Y",
+            "locational": "N",
+            "technical": "N",
+            "scifi-related": "N"
+        },
+        {
+            "segment": "unethical",
+            "anthropomorphic": "Y",
+            "emotionable": "Y",
+            "locational": "N",
+            "technical": "Y",
+            "scifi-related": "N"
+        },
+        {
+            "segment": "creepy",
+            "anthropomorphic": "Y",
+            "emotionable": "Y",
+            "locational": "Y",
+            "technical": "Y",
+            "scifi-related": "N"
+        },
+        {
+            "segment": "influential",
+            "anthropomorphic": "Y",
+            "emotionable": "Y",
+            "locational": "N",
+            "technical": "N",
+            "scifi-related": "N"
+        },
+        {
+            "segment": "sophisticated",
+            "anthropomorphic": "Y",
+            "emotionable": "Y",
+            "locational": "N",
+            "technical": "Y",
+            "scifi-related": "N"
+        },
+        {
+            "segment": "off-world",
+            "anthropomorphic": "Y",
+            "emotionable": "N",
+            "locational": "Y",
+            "technical": "Y",
+            "scifi-related": "Y"
+        },
+        {
+            "segment": "post-apocalyptic",
+            "anthropomorphic": "Y",
+            "emotionable": "Y",
+            "locational": "Y",
+            "technical": "Y",
+            "scifi-related": "Y"
+        },
+        {
+            "segment": "immortal",
+            "anthropomorphic": "Y",
+            "emotionable": "Y",
+            "locational": "N",
+            "technical": "N",
+            "scifi-related": "Y"
+        },
+        {
+            "segment": "banished",
+            "anthropomorphic": "Y",
+            "emotionable": "Y",
+            "locational": "N",
+            "technical": "N",
+            "scifi-related": "N"
+        },
+        {
+            "segment": "extraordinary",
+            "anthropomorphic": "Y",
+            "emotionable": "Y",
+            "locational": "Y",
+            "technical": "Y",
+            "scifi-related": "N"
+        },
+        {
+            "segment": "Devastated",
+            "anthropomorphic": "Y",
+            "emotionable": "Y",
+            "locational": "N",
+            "technical": "N",
+            "scifi-related": "N"
+        },
+        {
+            "segment": "Lone",
+            "anthropomorphic": "Y",
+            "emotionable": "Y",
+            "locational": "Y",
+            "technical": "Y",
+            "scifi-related": "Y"
+        },
+        {
+            "segment": "VR",
+            "anthropomorphic": "Y",
+            "emotionable": "Y",
+            "locational": "Y",
+            "technical": "Y",
+            "scifi-related": "Y"
+        },
+        {
+            "segment": "Tranquil",
+            "anthropomorphic": "Y",
+            "emotionable": "Y",
+            "locational": "Y",
+            "technical": "Y",
+            "scifi-related": "N"
+        },
+        {
+            "segment": "Doomed",
+            "anthropomorphic": "Y",
+            "emotionable": "Y",
+            "locational": "Y",
+            "technical": "N",
+            "scifi-related": "Y"
+        },
+        {
+            "segment": "young",
+            "anthropomorphic": "Y",
+            "emotionable": "Y",
+            "locational": "Y",
+            "technical": "Y",
+            "scifi-related": "N"
+        },
+        {
+            "segment": "naive",
+            "anthropomorphic": "Y",
+            "emotionable": "N",
+            "locational": "N",
+            "technical": "N",
+            "scifi-related": "N"
+        },
+        {
+            "segment": "ruthless",
+            "anthropomorphic": "Y",
+            "emotionable": "Y",
+            "locational": "N",
+            "technical": "Y",
+            "scifi-related": "N"
+        },
+        {
+            "segment": "violent",
+            "anthropomorphic": "Y",
+            "emotionable": "Y",
+            "locational": "Y",
+            "technical": "Y",
+            "scifi-related": "N"
+        },
+        {
+            "segment": "pyschological",
+            "anthropomorphic": "N",
+            "emotionable": "N",
+            "locational": "N",
+            "technical": "Y",
+            "scifi-related": "N"
+        },
+        {
+            "segment": "expiremental",
+            "anthropomorphic": "Y",
+            "emotionable": "Y",
+            "locational": "Y",
+            "technical": "Y",
+            "scifi-related": "Y"
+        },
+        {
+            "segment": "dystopian",
+            "anthropomorphic": "Y",
+            "emotionable": "Y",
+            "locational": "Y",
+            "technical": "Y",
+            "scifi-related": "Y"
+        },
+        {
+            "segment": "utopian",
+            "anthropomorphic": "Y",
+            "emotionable": "Y",
+            "locational": "Y",
+            "technical": "Y",
+            "scifi-related": "Y"
+        },
+        {
+            "segment": "allied",
+            "anthropomorphic": "Y",
+            "emotionable": "N",
+            "locational": "N",
+            "technical": "N",
+            "scifi-related": "N"
+        },
+        {
+            "segment": "tough",
+            "anthropomorphic": "Y",
+            "emotionable": "N",
+            "locational": "N",
+            "technical": "Y",
+            "scifi-related": "N"
+        },
+        {
+            "segment": "universal",
+            "anthropomorphic": "Y",
+            "emotionable": "Y",
+            "locational": "Y",
+            "technical": "Y",
+            "scifi-related": "Y"
+        },
+        {
+            "segment": "teleporting",
+            "anthropomorphic": "Y",
+            "emotionable": "N",
+            "locational": "Y",
+            "technical": "Y",
+            "scifi-related": "Y"
+        },
+        {
+            "segment": "frightening",
+            "anthropomorphic": "Y",
+            "emotionable": "Y",
+            "locational": "Y",
+            "technical": "Y",
+            "scifi-related": "N"
+        },
+        {
+            "segment": "abandoned",
+            "anthropomorphic": "Y",
+            "emotionable": "Y",
+            "locational": "Y",
+            "technical": "Y",
+            "scifi-related": "N"
+        },
+        {
+            "segment": "disastrous",
+            "anthropomorphic": "Y",
+            "emotionable": "Y",
+            "locational": "Y",
+            "technical": "Y",
+            "scifi-related": "N"
+        },
+        {
+            "segment": "one-armed",
+            "anthropomorphic": "Y",
+            "emotionable": "N",
+            "locational": "N",
+            "technical": "N",
+            "scifi-related": "N"
+        },
+        {
+            "segment": "radical",
+            "anthropomorphic": "Y",
+            "emotionable": "Y",
+            "locational": "N",
+            "technical": "N",
+            "scifi-related": "N"
+        },
+        {
+            "segment": "aging",
+            "anthropomorphic": "Y",
+            "emotionable": "Y",
+            "locational": "Y",
+            "technical": "Y",
+            "scifi-related": "N"
+        },
+        {
+            "segment": "sentient",
+            "anthropomorphic": "Y",
+            "emotionable": "Y",
+            "locational": "Y",
+            "technical": "Y",
+            "scifi-related": "Y"
+        },
+        {
+            "segment": "all-knowing",
+            "anthropomorphic": "Y",
+            "emotionable": "Y",
+            "locational": "Y",
+            "technical": "Y",
+            "scifi-related": "Y"
+        },
+        {
+            "segment": "colonizing",
+            "anthropomorphic": "Y",
+            "emotionable": "N",
+            "locational": "N",
+            "technical": "Y",
+            "scifi-related": "N"
+        },
+        {
+            "segment": "enterprising",
+            "anthropomorphic": "Y",
+            "emotionable": "N",
+            "locational": "N",
+            "technical": "N",
+            "scifi-related": "N"
+        },
+        {
+            "segment": "imperialistic",
+            "anthropomorphic": "Y",
+            "emotionable": "N",
+            "locational": "N",
+            "technical": "N",
+            "scifi-related": "N"
+        },
+        {
+            "segment": "revolutionary",
+            "anthropomorphic": "Y",
+            "emotionable": "Y",
+            "locational": "Y",
+            "technical": "Y",
+            "scifi-related": "N"
+        },
+        {
+            "segment": "unassuming",
+            "anthropomorphic": "Y",
+            "emotionable": "Y",
+            "locational": "Y",
+            "technical": "Y",
+            "scifi-related": "N"
+        },
+        {
+            "segment": "useless",
+            "anthropomorphic": "Y",
+            "emotionable": "Y",
+            "locational": "Y",
+            "technical": "Y",
+            "scifi-related": "N"
+        },
+        {
+            "segment": "subterranean",
+            "anthropomorphic": "Y",
+            "emotionable": "N",
+            "locational": "Y",
+            "technical": "Y",
+            "scifi-related": "Y"
+        },
+        {
+            "segment": "deranged",
+            "anthropomorphic": "Y",
+            "emotionable": "Y",
+            "locational": "N",
+            "technical": "N",
+            "scifi-related": "N"
+        },
+        {
+            "segment": "exotic",
+            "anthropomorphic": "Y",
+            "emotionable": "Y",
+            "locational": "Y",
+            "technical": "Y",
+            "scifi-related": "N"
+        },
+        {
+            "segment": "oceanic",
+            "anthropomorphic": "Y",
+            "emotionable": "N",
+            "locational": "Y",
+            "technical": "Y",
+            "scifi-related": "Y"
+        },
+        {
+            "segment": "ocean-dwelling",
+            "anthropomorphic": "Y",
+            "emotionable": "N",
+            "locational": "N",
+            "technical": "N",
+            "scifi-related": "Y"
+        },
+        {
+            "segment": "telepathic",
+            "anthropomorphic": "Y",
+            "emotionable": "Y",
+            "locational": "N",
+            "technical": "Y",
+            "scifi-related": "Y"
+        },
+        {
+            "segment": "mind-enhancing",
+            "anthropomorphic": "N",
+            "emotionable": "N",
+            "locational": "Y",
+            "technical": "Y",
+            "scifi-related": "Y"
+        },
+        {
+            "segment": "destructive",
+            "anthropomorphic": "Y",
+            "emotionable": "Y",
+            "locational": "Y",
+            "technical": "Y",
+            "scifi-related": "N"
+        },
+        {
+            "segment": "epic",
+            "anthropomorphic": "Y",
+            "emotionable": "Y",
+            "locational": "Y",
+            "technical": "Y",
+            "scifi-related": "N"
+        },
+        {
+            "segment": "mystical",
+            "anthropomorphic": "Y",
+            "emotionable": "Y",
+            "locational": "Y",
+            "technical": "Y",
+            "scifi-related": "Y"
+        },
+        {
+            "segment": "zealous",
+            "anthropomorphic": "Y",
+            "emotionable": "Y",
+            "locational": "N",
+            "technical": "N",
+            "scifi-related": "N"
+        },
+        {
+            "segment": "zany",
+            "anthropomorphic": "Y",
+            "emotionable": "Y",
+            "locational": "Y",
+            "technical": "Y",
+            "scifi-related": "N"
+        },
+        {
+            "segment": "devout",
+            "anthropomorphic": "Y",
+            "emotionable": "Y",
+            "locational": "N",
+            "technical": "N",
+            "scifi-related": "N"
+        },
+        {
+            "segment": "artifical",
+            "anthropomorphic": "Y",
+            "emotionable": "Y",
+            "locational": "Y",
+            "technical": "Y",
+            "scifi-related": "Y"
+        },
+        {
+            "segment": "exiled",
+            "anthropomorphic": "Y",
+            "emotionable": "N",
+            "locational": "N",
+            "technical": "N",
+            "scifi-related": "N"
+        },
+        {
+            "segment": "disgraced",
+            "anthropomorphic": "Y",
+            "emotionable": "Y",
+            "locational": "N",
+            "technical": "N",
+            "scifi-related": "N"
+        },
+        {
+            "segment": "downtrodden",
+            "anthropomorphic": "Y",
+            "emotionable": "Y",
+            "locational": "N",
+            "technical": "N",
+            "scifi-related": "N"
+        },
+        {
+            "segment": "anxious",
+            "anthropomorphic": "Y",
+            "emotionable": "Y",
+            "locational": "N",
+            "technical": "N",
+            "scifi-related": "N"
+        },
+        {
+            "segment": "holy",
+            "anthropomorphic": "Y",
+            "emotionable": "Y",
+            "locational": "Y",
+            "technical": "Y",
+            "scifi-related": "Y"
+        },
+        {
+            "segment": "whimsical",
+            "anthropomorphic": "Y",
+            "emotionable": "Y",
+            "locational": "Y",
+            "technical": "Y",
+            "scifi-related": "N"
+        },
+        {
+            "segment": "bizzare",
+            "anthropomorphic": "Y",
+            "emotionable": "Y",
+            "locational": "Y",
+            "technical": "Y",
+            "scifi-related": "N"
+        },
+        {
+            "segment": "average",
+            "anthropomorphic": "Y",
+            "emotionable": "Y",
+            "locational": "Y",
+            "technical": "Y",
+            "scifi-related": "N"
+        },
+        {
+            "segment": "boring",
+            "anthropomorphic": "Y",
+            "emotionable": "Y",
+            "locational": "Y",
+            "technical": "Y",
+            "scifi-related": "N"
+        },
+        {
+            "segment": "chill",
+            "anthropomorphic": "Y",
+            "emotionable": "Y",
+            "locational": "N",
+            "technical": "N",
+            "scifi-related": "N"
+        },
+        {
+            "segment": "urban",
+            "anthropomorphic": "Y",
+            "emotionable": "N",
+            "locational": "Y",
+            "technical": "Y",
+            "scifi-related": "N"
+        },
+        {
+            "segment": "rural",
+            "anthropomorphic": "Y",
+            "emotionable": "N",
+            "locational": "Y",
+            "technical": "Y",
+            "scifi-related": "N"
+        },
+        {
+            "segment": "dominating",
+            "anthropomorphic": "Y",
+            "emotionable": "Y",
+            "locational": "N",
+            "technical": "Y",
+            "scifi-related": "N"
+        },
+        {
+            "segment": "fearsome",
+            "anthropomorphic": "Y",
+            "emotionable": "Y",
+            "locational": "N",
+            "technical": "Y",
+            "scifi-related": "N"
+        },
+        {
+            "segment": "cryptographic",
+            "anthropomorphic": "N",
+            "emotionable": "N",
+            "locational": "N",
+            "technical": "Y",
+            "scifi-related": "Y"
+        },
+        {
+            "segment": "subliminal",
+            "anthropomorphic": "N",
+            "emotionable": "N",
+            "locational": "N",
+            "technical": "Y",
+            "scifi-related": "Y"
+        },
+        {
+            "segment": "massive",
+            "anthropomorphic": "Y",
+            "emotionable": "N",
+            "locational": "Y",
+            "technical": "Y",
+            "scifi-related": "Y"
+        },
+        {
+            "segment": "The last",
+            "anthropomorphic": "Y",
+            "emotionable": "Y",
+            "locational": "Y",
+            "technical": "Y",
+            "scifi-related": "Y"
+        },
+        {
+            "segment": "failing",
+            "anthropomorphic": "Y",
+            "emotionable": "Y",
+            "locational": "Y",
+            "technical": "Y",
+            "scifi-related": "N"
+        },
+        {
+            "segment": "ailing",
+            "anthropomorphic": "Y",
+            "emotionable": "Y",
+            "locational": "N",
+            "technical": "N",
+            "scifi-related": "N"
+        },
+        {
+            "segment": "successful",
+            "anthropomorphic": "Y",
+            "emotionable": "Y",
+            "locational": "N",
+            "technical": "Y",
+            "scifi-related": "N"
+        },
+        {
+            "segment": "begrudging",
+            "anthropomorphic": "Y",
+            "emotionable": "Y",
+            "locational": "N",
+            "technical": "N",
+            "scifi-related": "N"
+        },
+        {
+            "segment": "totally tubular",
+            "anthropomorphic": "Y",
+            "emotionable": "Y",
+            "locational": "Y",
+            "technical": "Y",
+            "scifi-related": "N"
+        },
+        {
+            "segment": "interstellar",
+            "anthropomorphic": "Y",
+            "emotionable": "N",
+            "locational": "Y",
+            "technical": "Y",
+            "scifi-related": "Y"
+        },
+        {
+            "segment": "stellar",
+            "anthropomorphic": "Y",
+            "emotionable": "N",
+            "locational": "Y",
+            "technical": "Y",
+            "scifi-related": "Y"
+        },
+        {
+            "segment": "accidental",
+            "anthropomorphic": "Y",
+            "emotionable": "Y",
+            "locational": "Y",
+            "technical": "Y",
+            "scifi-related": "N"
+        },
+        {
+            "segment": "group of",
+            "anthropomorphic": "Y",
+            "emotionable": "Y",
+            "locational": "Y",
+            "technical": "Y",
+            "scifi-related": "N"
+        },
+        {
+            "segment": "indefinite",
+            "anthropomorphic": "Y",
+            "emotionable": "Y",
+            "locational": "N",
+            "technical": "N",
+            "scifi-related": "N"
+        },
+        {
+            "segment": "apocalyptic",
+            "anthropomorphic": "Y",
+            "emotionable": "Y",
+            "locational": "Y",
+            "technical": "Y",
+            "scifi-related": "Y"
+        },
+        {
+            "segment": "devastated",
+            "anthropomorphic": "Y",
+            "emotionable": "Y",
+            "locational": "Y",
+            "technical": "N",
+            "scifi-related": "N"
+        },
+        {
+            "segment": "rich",
+            "anthropomorphic": "Y",
+            "emotionable": "N",
+            "locational": "Y",
+            "technical": "N",
+            "scifi-related": "N"
+        },
+        {
+            "segment": "poor",
+            "anthropomorphic": "Y",
+            "emotionable": "N",
+            "locational": "Y",
+            "technical": "N",
+            "scifi-related": "N"
+        },
+        {
+            "segment": "nineteenth-century",
+            "anthropomorphic": "Y",
+            "emotionable": "Y",
+            "locational": "Y",
+            "technical": "Y",
+            "scifi-related": "N"
+        },
+        {
+            "segment": "stone-age",
+            "anthropomorphic": "Y",
+            "emotionable": "Y",
+            "locational": "Y",
+            "technical": "Y",
+            "scifi-related": "Y"
+        },
+        {
+            "segment": "rival",
+            "anthropomorphic": "Y",
+            "emotionable": "Y",
+            "locational": "N",
+            "technical": "Y",
+            "scifi-related": "N"
+        },
+        {
+            "segment": "vampirical",
+            "anthropomorphic": "Y",
+            "emotionable": "N",
+            "locational": "N",
+            "technical": "N",
+            "scifi-related": "Y"
+        },
+        {
+            "segment": "desperate",
+            "anthropomorphic": "Y",
+            "emotionable": "Y",
+            "locational": "N",
+            "technical": "N",
+            "scifi-related": "N"
+        },
+        {
+            "segment": "starving",
+            "anthropomorphic": "Y",
+            "emotionable": "N",
+            "locational": "N",
+            "technical": "N",
+            "scifi-related": "N"
+        },
+        {
+            "segment": "chaotic",
+            "anthropomorphic": "Y",
+            "emotionable": "Y",
+            "locational": "Y",
+            "technical": "Y",
+            "scifi-related": "N"
+        },
+        {
+            "segment": "even-keeled",
+            "anthropomorphic": "Y",
+            "emotionable": "Y",
+            "locational": "N",
+            "technical": "N",
+            "scifi-related": "N"
+        },
+        {
+            "segment": "angry",
+            "anthropomorphic": "Y",
+            "emotionable": "Y",
+            "locational": "N",
+            "technical": "N",
+            "scifi-related": "N"
+        },
+        {
+            "segment": "generational",
+            "anthropomorphic": "Y",
+            "emotionable": "Y",
+            "locational": "Y",
+            "technical": "Y",
+            "scifi-related": "Y"
+        },
+        {
+            "segment": "magical",
+            "anthropomorphic": "Y",
+            "emotionable": "Y",
+            "locational": "Y",
+            "technical": "Y",
+            "scifi-related": "Y"
+        },
+        {
+            "segment": "muscular",
+            "anthropomorphic": "Y",
+            "emotionable": "N",
+            "locational": "N",
+            "technical": "N",
+            "scifi-related": "N"
+        },
+        {
+            "segment": "wily",
+            "anthropomorphic": "Y",
+            "emotionable": "Y",
+            "locational": "N",
+            "technical": "N",
+            "scifi-related": "N"
+        },
+        {
+            "segment": "emotionless",
+            "anthropomorphic": "Y",
+            "emotionable": "Y",
+            "locational": "Y",
+            "technical": "Y",
+            "scifi-related": "N"
+        },
+        {
+            "segment": "zombie-like",
+            "anthropomorphic": "Y",
+            "emotionable": "Y",
+            "locational": "Y",
+            "technical": "Y",
+            "scifi-related": "Y"
+        },
+        {
+            "segment": "passionate",
+            "anthropomorphic": "Y",
+            "emotionable": "Y",
+            "locational": "N",
+            "technical": "N",
+            "scifi-related": "N"
+        },
+        {
+            "segment": "royal",
+            "anthropomorphic": "Y",
+            "emotionable": "Y",
+            "locational": "N",
+            "technical": "N",
+            "scifi-related": "N"
+        },
+        {
+            "segment": "impoverished",
+            "anthropomorphic": "Y",
+            "emotionable": "N",
+            "locational": "N",
+            "technical": "N",
+            "scifi-related": "N"
+        },
+        {
+            "segment": "disease-ridden",
+            "anthropomorphic": "Y",
+            "emotionable": "N",
+            "locational": "Y",
+            "technical": "N",
+            "scifi-related": "N"
+        },
+        {
+            "segment": "awestricken",
+            "anthropomorphic": "Y",
+            "emotionable": "Y",
+            "locational": "N",
+            "technical": "N",
+            "scifi-related": "N"
+        },
+        {
+            "segment": "terrified",
+            "anthropomorphic": "Y",
+            "emotionable": "Y",
+            "locational": "N",
+            "technical": "N",
+            "scifi-related": "N"
+        },
+        {
+            "segment": "incredulous",
+            "anthropomorphic": "Y",
+            "emotionable": "Y",
+            "locational": "N",
+            "technical": "N",
+            "scifi-related": "N"
+        },
+        {
+            "segment": "incredible",
+            "anthropomorphic": "Y",
+            "emotionable": "Y",
+            "locational": "Y",
+            "technical": "Y",
+            "scifi-related": "N"
+        },
+        {
+            "segment": "edible",
+            "anthropomorphic": "Y",
+            "emotionable": "N",
+            "locational": "Y",
+            "technical": "Y",
+            "scifi-related": "N"
+        },
+        {
+            "segment": "patriarchal",
+            "anthropomorphic": "Y",
+            "emotionable": "N",
+            "locational": "Y",
+            "technical": "N",
+            "scifi-related": "N"
+        },
+        {
+            "segment": "matriarchal",
+            "anthropomorphic": "Y",
+            "emotionable": "N",
+            "locational": "Y",
+            "technical": "N",
+            "scifi-related": "N"
+        },
+        {
+            "segment": "overly involved",
+            "anthropomorphic": "Y",
+            "emotionable": "Y",
+            "locational": "N",
+            "technical": "N",
+            "scifi-related": "N"
+        },
+        {
+            "segment": "conflicted",
+            "anthropomorphic": "Y",
+            "emotionable": "Y",
+            "locational": "N",
+            "technical": "N",
+            "scifi-related": "N"
+        },
+        {
+            "segment": "misunderstood",
+            "anthropomorphic": "Y",
+            "emotionable": "Y",
+            "locational": "N",
+            "technical": "N",
+            "scifi-related": "N"
+        },
+        {
+            "segment": "circular",
+            "anthropomorphic": "N",
+            "emotionable": "N",
+            "locational": "Y",
+            "technical": "Y",
+            "scifi-related": "N"
+        },
+        {
+            "segment": "hyper-galactic",
+            "anthropomorphic": "Y",
+            "emotionable": "N",
+            "locational": "Y",
+            "technical": "Y",
+            "scifi-related": "Y"
+        },
+        {
+            "segment": "galactic",
+            "anthropomorphic": "Y",
+            "emotionable": "N",
+            "locational": "Y",
+            "technical": "Y",
+            "scifi-related": "Y"
+        },
+        {
+            "segment": "luxurious",
+            "anthropomorphic": "Y",
+            "emotionable": "Y",
+            "locational": "Y",
+            "technical": "Y",
+            "scifi-related": "N"
+        },
+        {
+            "segment": "gigantic",
+            "anthropomorphic": "Y",
+            "emotionable": "N",
+            "locational": "Y",
+            "technical": "Y",
+            "scifi-related": "Y"
+        },
+        {
+            "segment": "huge",
+            "anthropomorphic": "Y",
+            "emotionable": "N",
+            "locational": "Y",
+            "technical": "Y",
+            "scifi-related": "Y"
+        },
+        {
+            "segment": "distant",
+            "anthropomorphic": "Y",
+            "emotionable": "N",
+            "locational": "Y",
+            "technical": "Y",
+            "scifi-related": "N"
+        },
+        {
+            "segment": "despondent",
+            "anthropomorphic": "Y",
+            "emotionable": "Y",
+            "locational": "N",
+            "technical": "N",
+            "scifi-related": "N"
+        },
+        {
+            "segment": "dispossessed",
+            "anthropomorphic": "Y",
+            "emotionable": "Y",
+            "locational": "N",
+            "technical": "N",
+            "scifi-related": "N"
+        },
+        {
+            "segment": "unwilling",
+            "anthropomorphic": "Y",
+            "emotionable": "Y",
+            "locational": "N",
+            "technical": "N",
+            "scifi-related": "N"
+        },
+        {
+            "segment": "immobile",
+            "anthropomorphic": "Y",
+            "emotionable": "N",
+            "locational": "Y",
+            "technical": "Y",
+            "scifi-related": "N"
+        },
+        {
+            "segment": "immovable",
+            "anthropomorphic": "Y",
+            "emotionable": "N",
+            "locational": "Y",
+            "technical": "Y",
+            "scifi-related": "N"
+        },
+        {
+            "segment": "brilliant",
+            "anthropomorphic": "Y",
+            "emotionable": "Y",
+            "locational": "N",
+            "technical": "N",
+            "scifi-related": "N"
+        },
+        {
+            "segment": "wicked",
+            "anthropomorphic": "Y",
+            "emotionable": "Y",
+            "locational": "N",
+            "technical": "N",
+            "scifi-related": "N"
+        },
+        {
+            "segment": "sinister",
+            "anthropomorphic": "Y",
+            "emotionable": "Y",
+            "locational": "N",
+            "technical": "Y",
+            "scifi-related": "N"
+        },
+        {
+            "segment": "morose",
+            "anthropomorphic": "Y",
+            "emotionable": "Y",
+            "locational": "N",
+            "technical": "N",
+            "scifi-related": "N"
+        },
+        {
+            "segment": "unskilled",
+            "anthropomorphic": "Y",
+            "emotionable": "Y",
+            "locational": "N",
+            "technical": "N",
+            "scifi-related": "N"
+        },
+        {
+            "segment": "new",
+            "anthropomorphic": "Y",
+            "emotionable": "Y",
+            "locational": "Y",
+            "technical": "Y",
+            "scifi-related": "N"
+        },
+        {
+            "segment": "ancient",
+            "anthropomorphic": "Y",
+            "emotionable": "Y",
+            "locational": "Y",
+            "technical": "Y",
+            "scifi-related": "Y"
+        },
+        {
+            "segment": "vengeful",
+            "anthropomorphic": "Y",
+            "emotionable": "Y",
+            "locational": "N",
+            "technical": "N",
+            "scifi-related": "N"
+        },
+        {
+            "segment": "dense",
+            "anthropomorphic": "Y",
+            "emotionable": "N",
+            "locational": "Y",
+            "technical": "Y",
+            "scifi-related": "N"
+        },
+        {
+            "segment": "emperious",
+            "anthropomorphic": "Y",
+            "emotionable": "N",
+            "locational": "N",
+            "technical": "N",
+            "scifi-related": "N"
+        },
+        {
+            "segment": "notorious",
+            "anthropomorphic": "Y",
+            "emotionable": "Y",
+            "locational": "N",
+            "technical": "Y",
+            "scifi-related": "N"
+        },
+        {
+            "segment": "literal",
+            "anthropomorphic": "Y",
+            "emotionable": "Y",
+            "locational": "Y",
+            "technical": "Y",
+            "scifi-related": "N"
+        },
+        {
+            "segment": "over-literal",
+            "anthropomorphic": "Y",
+            "emotionable": "Y",
+            "locational": "N",
+            "technical": "N",
+            "scifi-related": "N"
+        },
+        {
+            "segment": "mesmerizing",
+            "anthropomorphic": "Y",
+            "emotionable": "Y",
+            "locational": "Y",
+            "technical": "Y",
+            "scifi-related": "N"
+        },
+        {
+            "segment": "unfunny",
+            "anthropomorphic": "Y",
+            "emotionable": "Y",
+            "locational": "Y",
+            "technical": "Y",
+            "scifi-related": "N"
+        },
+        {
+            "segment": "humorous",
+            "anthropomorphic": "Y",
+            "emotionable": "Y",
+            "locational": "Y",
+            "technical": "Y",
+            "scifi-related": "N"
+        },
+        {
+            "segment": "imaginitive",
+            "anthropomorphic": "Y",
+            "emotionable": "Y",
+            "locational": "N",
+            "technical": "Y",
+            "scifi-related": "N"
+        },
+        {
+            "segment": "superintelligent",
+            "anthropomorphic": "Y",
+            "emotionable": "Y",
+            "locational": "N",
+            "technical": "Y",
+            "scifi-related": "Y"
+        },
+        {
+            "segment": "superstitious",
+            "anthropomorphic": "Y",
+            "emotionable": "Y",
+            "locational": "N",
+            "technical": "N",
+            "scifi-related": "Y"
+        },
+        {
+            "segment": "hopeful",
+            "anthropomorphic": "Y",
+            "emotionable": "Y",
+            "locational": "N",
+            "technical": "N",
+            "scifi-related": "N"
+        },
+        {
+            "segment": "eccentric",
+            "anthropomorphic": "Y",
+            "emotionable": "Y",
+            "locational": "Y",
+            "technical": "Y",
+            "scifi-related": "N"
+        },
+        {
+            "segment": "obsessive",
+            "anthropomorphic": "Y",
+            "emotionable": "Y",
+            "locational": "N",
+            "technical": "N",
+            "scifi-related": "N"
+        },
+        {
+            "segment": "gifted",
+            "anthropomorphic": "Y",
+            "emotionable": "N",
+            "locational": "N",
+            "technical": "N",
+            "scifi-related": "N"
+        },
+        {
+            "segment": "unique",
+            "anthropomorphic": "Y",
+            "emotionable": "Y",
+            "locational": "Y",
+            "technical": "Y",
+            "scifi-related": "N"
+        },
+        {
+            "segment": "dramatic",
+            "anthropomorphic": "Y",
+            "emotionable": "Y",
+            "locational": "Y",
+            "technical": "Y",
+            "scifi-related": "N"
+        },
+        {
+            "segment": "diabolical",
+            "anthropomorphic": "Y",
+            "emotionable": "Y",
+            "locational": "N",
+            "technical": "Y",
+            "scifi-related": "Y"
+        },
+        {
+            "segment": "supercooled",
+            "anthropomorphic": "Y",
+            "emotionable": "N",
+            "locational": "Y",
+            "technical": "Y",
+            "scifi-related": "Y"
+        },
+        {
+            "segment": "cryptic",
+            "anthropomorphic": "Y",
+            "emotionable": "Y",
+            "locational": "N",
+            "technical": "Y",
+            "scifi-related": "Y"
+        },
+        {
+            "segment": "Multiple",
+            "anthropomorphic": "Y",
+            "emotionable": "Y",
+            "locational": "Y",
+            "technical": "Y",
+            "scifi-related": "N"
+        }
+    ],
+    "subject": [
+        {
+            "segment": "weapon",
+            "technical": "Y",
+            "scifi-related": "N",
+            "anthropomorphic": "N",
+            "emotionable": "N",
+            "locational": "N"
+        },
+        {
+            "segment": "Laser",
+            "technical": "Y",
+            "scifi-related": "Y",
+            "anthropomorphic": "N",
+            "emotionable": "N",
+            "locational": "N"
+        },
+        {
+            "segment": "Rocket",
+            "technical": "Y",
+            "scifi-related": "Y",
+            "anthropomorphic": "N",
+            "emotionable": "N",
+            "locational": "N"
+        },
+        {
+            "segment": "Bomb",
+            "technical": "Y",
+            "scifi-related": "Y",
+            "anthropomorphic": "N",
+            "emotionable": "N",
+            "locational": "N"
+        },
+        {
+            "segment": "message",
+            "technical": "Y",
+            "scifi-related": "N",
+            "anthropomorphic": "N",
+            "emotionable": "N",
+            "locational": "N"
+        },
+        {
+            "segment": "Monolith",
+            "technical": "Y",
+            "scifi-related": "Y",
+            "anthropomorphic": "N",
+            "emotionable": "N",
+            "locational": "N"
+        },
+        {
+            "segment": "Disease",
+            "technical": "Y",
+            "scifi-related": "N",
+            "anthropomorphic": "N",
+            "emotionable": "N",
+            "locational": "N"
+        },
+        {
+            "segment": "Communication",
+            "technical": "Y",
+            "scifi-related": "N",
+            "anthropomorphic": "N",
+            "emotionable": "N",
+            "locational": "N"
+        },
+        {
+            "segment": "Element",
+            "technical": "Y",
+            "scifi-related": "Y",
+            "anthropomorphic": "N",
+            "emotionable": "N",
+            "locational": "N"
+        },
+        {
+            "segment": "Jetpack",
+            "technical": "Y",
+            "scifi-related": "Y",
+            "anthropomorphic": "N",
+            "emotionable": "N",
+            "locational": "N"
+        },
+        {
+            "segment": "Neural Interface",
+            "technical": "Y",
+            "scifi-related": "Y",
+            "anthropomorphic": "N",
+            "emotionable": "N",
+            "locational": "N"
+        },
+        {
+            "segment": "Cybernetics",
+            "technical": "Y",
+            "scifi-related": "Y",
+            "anthropomorphic": "N",
+            "emotionable": "N",
+            "locational": "N"
+        },
+        {
+            "segment": "Time Machine",
+            "technical": "Y",
+            "scifi-related": "Y",
+            "anthropomorphic": "N",
+            "emotionable": "N",
+            "locational": "N"
+        },
+        {
+            "segment": "Security Code",
+            "technical": "Y",
+            "scifi-related": "Y",
+            "anthropomorphic": "N",
+            "emotionable": "N",
+            "locational": "N"
+        },
+        {
+            "segment": "plague",
+            "technical": "Y",
+            "scifi-related": "N",
+            "anthropomorphic": "N",
+            "emotionable": "N",
+            "locational": "N"
+        },
+        {
+            "segment": "narcotic",
+            "technical": "Y",
+            "scifi-related": "N",
+            "anthropomorphic": "N",
+            "emotionable": "N",
+            "locational": "N"
+        },
+        {
+            "segment": "drug",
+            "technical": "Y",
+            "scifi-related": "N",
+            "anthropomorphic": "N",
+            "emotionable": "N",
+            "locational": "N"
+        },
+        {
+            "segment": "expirement",
+            "technical": "Y",
+            "scifi-related": "Y",
+            "anthropomorphic": "N",
+            "emotionable": "N",
+            "locational": "N"
+        },
+        {
+            "segment": "teleport",
+            "technical": "Y",
+            "scifi-related": "Y",
+            "anthropomorphic": "N",
+            "emotionable": "N",
+            "locational": "N"
+        },
+        {
+            "segment": "war",
+            "technical": "Y",
+            "scifi-related": "N",
+            "anthropomorphic": "N",
+            "emotionable": "N",
+            "locational": "N"
+        },
+        {
+            "segment": "data",
+            "technical": "Y",
+            "scifi-related": "Y",
+            "anthropomorphic": "N",
+            "emotionable": "N",
+            "locational": "N"
+        },
+        {
+            "segment": "mission",
+            "technical": "Y",
+            "scifi-related": "N",
+            "anthropomorphic": "N",
+            "emotionable": "N",
+            "locational": "N"
+        },
+        {
+            "segment": "conspiracy",
+            "technical": "Y",
+            "scifi-related": "N",
+            "anthropomorphic": "N",
+            "emotionable": "N",
+            "locational": "N"
+        },
+        {
+            "segment": "magic",
+            "technical": "Y",
+            "scifi-related": "Y",
+            "anthropomorphic": "N",
+            "emotionable": "N",
+            "locational": "N"
+        },
+        {
+            "segment": "archive",
+            "technical": "Y",
+            "scifi-related": "N",
+            "anthropomorphic": "N",
+            "emotionable": "N",
+            "locational": "N"
+        },
+        {
+            "segment": "Food",
+            "technical": "Y",
+            "scifi-related": "N",
+            "anthropomorphic": "N",
+            "emotionable": "Y",
+            "locational": "N"
+        },
+        {
+            "segment": "Rebellion",
+            "technical": "N",
+            "scifi-related": "N",
+            "anthropomorphic": "N",
+            "emotionable": "Y",
+            "locational": "N"
+        },
+        {
+            "segment": "Software",
+            "technical": "Y",
+            "scifi-related": "Y",
+            "anthropomorphic": "N",
+            "emotionable": "Y",
+            "locational": "N"
+        },
+        {
+            "segment": "Virus",
+            "technical": "Y",
+            "scifi-related": "Y",
+            "anthropomorphic": "N",
+            "emotionable": "Y",
+            "locational": "N"
+        },
+        {
+            "segment": "Computer",
+            "technical": "Y",
+            "scifi-related": "Y",
+            "anthropomorphic": "N",
+            "emotionable": "Y",
+            "locational": "N"
+        },
+        {
+            "segment": "space probe",
+            "technical": "Y",
+            "scifi-related": "Y",
+            "anthropomorphic": "N",
+            "emotionable": "Y",
+            "locational": "N"
+        },
+        {
+            "segment": "orb of power",
+            "technical": "Y",
+            "scifi-related": "Y",
+            "anthropomorphic": "N",
+            "emotionable": "Y",
+            "locational": "N"
+        },
+        {
+            "segment": "Program",
+            "technical": "Y",
+            "scifi-related": "Y",
+            "anthropomorphic": "N",
+            "emotionable": "Y",
+            "locational": "N"
+        },
+        {
+            "segment": "Dynasty",
+            "technical": "N",
+            "scifi-related": "N",
+            "anthropomorphic": "Y",
+            "emotionable": "N",
+            "locational": "N"
+        },
+        {
+            "segment": "Soldier",
+            "technical": "N",
+            "scifi-related": "N",
+            "anthropomorphic": "Y",
+            "emotionable": "Y",
+            "locational": "N"
+        },
+        {
+            "segment": "Alien",
+            "technical": "N",
+            "scifi-related": "Y",
+            "anthropomorphic": "Y",
+            "emotionable": "Y",
+            "locational": "N"
+        },
+        {
+            "segment": "Robot",
+            "technical": "Y",
+            "scifi-related": "Y",
+            "anthropomorphic": "Y",
+            "emotionable": "Y",
+            "locational": "N"
+        },
+        {
+            "segment": "Construction Worker",
+            "technical": "N",
+            "scifi-related": "N",
+            "anthropomorphic": "Y",
+            "emotionable": "Y",
+            "locational": "N"
+        },
+        {
+            "segment": "Flora",
+            "technical": "N",
+            "scifi-related": "Y",
+            "anthropomorphic": "Y",
+            "emotionable": "Y",
+            "locational": "N"
+        },
+        {
+            "segment": "Fauna",
+            "technical": "N",
+            "scifi-related": "Y",
+            "anthropomorphic": "Y",
+            "emotionable": "Y",
+            "locational": "N"
+        },
+        {
+            "segment": "Pilot",
+            "technical": "N",
+            "scifi-related": "N",
+            "anthropomorphic": "Y",
+            "emotionable": "Y",
+            "locational": "N"
+        },
+        {
+            "segment": "Astronaut",
+            "technical": "N",
+            "scifi-related": "Y",
+            "anthropomorphic": "Y",
+            "emotionable": "Y",
+            "locational": "N"
+        },
+        {
+            "segment": "Scientist",
+            "technical": "N",
+            "scifi-related": "N",
+            "anthropomorphic": "Y",
+            "emotionable": "Y",
+            "locational": "N"
+        },
+        {
+            "segment": "Mathmetician",
+            "technical": "N",
+            "scifi-related": "N",
+            "anthropomorphic": "Y",
+            "emotionable": "Y",
+            "locational": "N"
+        },
+        {
+            "segment": "Angel",
+            "technical": "N",
+            "scifi-related": "Y",
+            "anthropomorphic": "Y",
+            "emotionable": "Y",
+            "locational": "N"
+        },
+        {
+            "segment": "Demon",
+            "technical": "N",
+            "scifi-related": "Y",
+            "anthropomorphic": "Y",
+            "emotionable": "Y",
+            "locational": "N"
+        },
+        {
+            "segment": "Worm",
+            "technical": "N",
+            "scifi-related": "Y",
+            "anthropomorphic": "Y",
+            "emotionable": "Y",
+            "locational": "N"
+        },
+        {
+            "segment": "Clone",
+            "technical": "N",
+            "scifi-related": "Y",
+            "anthropomorphic": "Y",
+            "emotionable": "Y",
+            "locational": "N"
+        },
+        {
+            "segment": "Superhero",
+            "technical": "N",
+            "scifi-related": "Y",
+            "anthropomorphic": "Y",
+            "emotionable": "Y",
+            "locational": "N"
+        },
+        {
+            "segment": "Supervillain",
+            "technical": "N",
+            "scifi-related": "Y",
+            "anthropomorphic": "Y",
+            "emotionable": "Y",
+            "locational": "N"
+        },
+        {
+            "segment": "Monster",
+            "technical": "N",
+            "scifi-related": "Y",
+            "anthropomorphic": "Y",
+            "emotionable": "Y",
+            "locational": "N"
+        },
+        {
+            "segment": "Regime",
+            "technical": "N",
+            "scifi-related": "N",
+            "anthropomorphic": "Y",
+            "emotionable": "Y",
+            "locational": "N"
+        },
+        {
+            "segment": "Follower",
+            "technical": "N",
+            "scifi-related": "Y",
+            "anthropomorphic": "Y",
+            "emotionable": "Y",
+            "locational": "N"
+        },
+        {
+            "segment": "Convict",
+            "technical": "N",
+            "scifi-related": "N",
+            "anthropomorphic": "Y",
+            "emotionable": "Y",
+            "locational": "N"
+        },
+        {
+            "segment": "Human",
+            "technical": "N",
+            "scifi-related": "N",
+            "anthropomorphic": "Y",
+            "emotionable": "Y",
+            "locational": "N"
+        },
+        {
+            "segment": "Genius",
+            "technical": "N",
+            "scifi-related": "N",
+            "anthropomorphic": "Y",
+            "emotionable": "Y",
+            "locational": "N"
+        },
+        {
+            "segment": "Citizen",
+            "technical": "N",
+            "scifi-related": "N",
+            "anthropomorphic": "Y",
+            "emotionable": "Y",
+            "locational": "N"
+        },
+        {
+            "segment": "Paramedic",
+            "technical": "N",
+            "scifi-related": "N",
+            "anthropomorphic": "Y",
+            "emotionable": "Y",
+            "locational": "N"
+        },
+        {
+            "segment": "Doctor",
+            "technical": "N",
+            "scifi-related": "N",
+            "anthropomorphic": "Y",
+            "emotionable": "Y",
+            "locational": "N"
+        },
+        {
+            "segment": "Pyschologist",
+            "technical": "N",
+            "scifi-related": "N",
+            "anthropomorphic": "Y",
+            "emotionable": "Y",
+            "locational": "N"
+        },
+        {
+            "segment": "Historian",
+            "technical": "N",
+            "scifi-related": "N",
+            "anthropomorphic": "Y",
+            "emotionable": "Y",
+            "locational": "N"
+        },
+        {
+            "segment": "Servant",
+            "technical": "N",
+            "scifi-related": "N",
+            "anthropomorphic": "Y",
+            "emotionable": "Y",
+            "locational": "N"
+        },
+        {
+            "segment": "Champion",
+            "technical": "N",
+            "scifi-related": "N",
+            "anthropomorphic": "Y",
+            "emotionable": "Y",
+            "locational": "N"
+        },
+        {
+            "segment": "Murderer",
+            "technical": "N",
+            "scifi-related": "N",
+            "anthropomorphic": "Y",
+            "emotionable": "Y",
+            "locational": "N"
+        },
+        {
+            "segment": "Serial Killer",
+            "technical": "N",
+            "scifi-related": "N",
+            "anthropomorphic": "Y",
+            "emotionable": "Y",
+            "locational": "N"
+        },
+        {
+            "segment": "Martian",
+            "technical": "N",
+            "scifi-related": "Y",
+            "anthropomorphic": "Y",
+            "emotionable": "Y",
+            "locational": "N"
+        },
+        {
+            "segment": "Assassin",
+            "technical": "N",
+            "scifi-related": "N",
+            "anthropomorphic": "Y",
+            "emotionable": "Y",
+            "locational": "N"
+        },
+        {
+            "segment": "Thief",
+            "technical": "N",
+            "scifi-related": "N",
+            "anthropomorphic": "Y",
+            "emotionable": "Y",
+            "locational": "N"
+        },
+        {
+            "segment": "Wizard",
+            "technical": "N",
+            "scifi-related": "Y",
+            "anthropomorphic": "Y",
+            "emotionable": "Y",
+            "locational": "N"
+        },
+        {
+            "segment": "Philosopher",
+            "technical": "N",
+            "scifi-related": "N",
+            "anthropomorphic": "Y",
+            "emotionable": "Y",
+            "locational": "N"
+        },
+        {
+            "segment": "detective",
+            "technical": "N",
+            "scifi-related": "N",
+            "anthropomorphic": "Y",
+            "emotionable": "Y",
+            "locational": "N"
+        },
+        {
+            "segment": "android",
+            "technical": "Y",
+            "scifi-related": "Y",
+            "anthropomorphic": "Y",
+            "emotionable": "Y",
+            "locational": "N"
+        },
+        {
+            "segment": "bounty hunter",
+            "technical": "N",
+            "scifi-related": "N",
+            "anthropomorphic": "Y",
+            "emotionable": "Y",
+            "locational": "N"
+        },
+        {
+            "segment": "survivor",
+            "technical": "N",
+            "scifi-related": "N",
+            "anthropomorphic": "Y",
+            "emotionable": "Y",
+            "locational": "N"
+        },
+        {
+            "segment": "writer",
+            "technical": "N",
+            "scifi-related": "N",
+            "anthropomorphic": "Y",
+            "emotionable": "Y",
+            "locational": "N"
+        },
+        {
+            "segment": "poet",
+            "technical": "N",
+            "scifi-related": "N",
+            "anthropomorphic": "Y",
+            "emotionable": "Y",
+            "locational": "N"
+        },
+        {
+            "segment": "journalist",
+            "technical": "N",
+            "scifi-related": "N",
+            "anthropomorphic": "Y",
+            "emotionable": "Y",
+            "locational": "N"
+        },
+        {
+            "segment": "king",
+            "technical": "N",
+            "scifi-related": "N",
+            "anthropomorphic": "Y",
+            "emotionable": "Y",
+            "locational": "N"
+        },
+        {
+            "segment": "queen",
+            "technical": "N",
+            "scifi-related": "N",
+            "anthropomorphic": "Y",
+            "emotionable": "Y",
+            "locational": "N"
+        },
+        {
+            "segment": "ruler",
+            "technical": "N",
+            "scifi-related": "N",
+            "anthropomorphic": "Y",
+            "emotionable": "Y",
+            "locational": "N"
+        },
+        {
+            "segment": "dictator",
+            "technical": "N",
+            "scifi-related": "N",
+            "anthropomorphic": "Y",
+            "emotionable": "Y",
+            "locational": "N"
+        },
+        {
+            "segment": "youth",
+            "technical": "N",
+            "scifi-related": "N",
+            "anthropomorphic": "Y",
+            "emotionable": "Y",
+            "locational": "N"
+        },
+        {
+            "segment": "elder",
+            "technical": "N",
+            "scifi-related": "N",
+            "anthropomorphic": "Y",
+            "emotionable": "Y",
+            "locational": "N"
+        },
+        {
+            "segment": "recruit",
+            "technical": "N",
+            "scifi-related": "N",
+            "anthropomorphic": "Y",
+            "emotionable": "Y",
+            "locational": "N"
+        },
+        {
+            "segment": "trooper",
+            "technical": "Y",
+            "scifi-related": "N",
+            "anthropomorphic": "Y",
+            "emotionable": "Y",
+            "locational": "N"
+        },
+        {
+            "segment": "infantry",
+            "technical": "N",
+            "scifi-related": "N",
+            "anthropomorphic": "Y",
+            "emotionable": "Y",
+            "locational": "N"
+        },
+        {
+            "segment": "enemy",
+            "technical": "N",
+            "scifi-related": "N",
+            "anthropomorphic": "Y",
+            "emotionable": "Y",
+            "locational": "N"
+        },
+        {
+            "segment": "ally",
+            "technical": "N",
+            "scifi-related": "N",
+            "anthropomorphic": "Y",
+            "emotionable": "Y",
+            "locational": "N"
+        },
+        {
+            "segment": "sibling",
+            "technical": "N",
+            "scifi-related": "N",
+            "anthropomorphic": "Y",
+            "emotionable": "Y",
+            "locational": "N"
+        },
+        {
+            "segment": "prince",
+            "technical": "N",
+            "scifi-related": "Y",
+            "anthropomorphic": "Y",
+            "emotionable": "Y",
+            "locational": "N"
+        },
+        {
+            "segment": "princess",
+            "technical": "N",
+            "scifi-related": "Y",
+            "anthropomorphic": "Y",
+            "emotionable": "Y",
+            "locational": "N"
+        },
+        {
+            "segment": "dragon",
+            "technical": "N",
+            "scifi-related": "Y",
+            "anthropomorphic": "Y",
+            "emotionable": "Y",
+            "locational": "N"
+        },
+        {
+            "segment": "technician",
+            "technical": "N",
+            "scifi-related": "N",
+            "anthropomorphic": "Y",
+            "emotionable": "Y",
+            "locational": "N"
+        },
+        {
+            "segment": "academic",
+            "technical": "N",
+            "scifi-related": "N",
+            "anthropomorphic": "Y",
+            "emotionable": "Y",
+            "locational": "N"
+        },
+        {
+            "segment": "monk",
+            "technical": "N",
+            "scifi-related": "N",
+            "anthropomorphic": "Y",
+            "emotionable": "Y",
+            "locational": "N"
+        },
+        {
+            "segment": "inventor",
+            "technical": "N",
+            "scifi-related": "N",
+            "anthropomorphic": "Y",
+            "emotionable": "Y",
+            "locational": "N"
+        },
+        {
+            "segment": "captain",
+            "technical": "N",
+            "scifi-related": "N",
+            "anthropomorphic": "Y",
+            "emotionable": "Y",
+            "locational": "N"
+        },
+        {
+            "segment": "creature",
+            "technical": "N",
+            "scifi-related": "N",
+            "anthropomorphic": "Y",
+            "emotionable": "Y",
+            "locational": "N"
+        },
+        {
+            "segment": "surgeon",
+            "technical": "N",
+            "scifi-related": "N",
+            "anthropomorphic": "Y",
+            "emotionable": "Y",
+            "locational": "N"
+        },
+        {
+            "segment": "mouse",
+            "technical": "N",
+            "scifi-related": "N",
+            "anthropomorphic": "Y",
+            "emotionable": "Y",
+            "locational": "N"
+        },
+        {
+            "segment": "alien race",
+            "technical": "N",
+            "scifi-related": "Y",
+            "anthropomorphic": "Y",
+            "emotionable": "Y",
+            "locational": "N"
+        },
+        {
+            "segment": "hacker",
+            "technical": "N",
+            "scifi-related": "Y",
+            "anthropomorphic": "Y",
+            "emotionable": "Y",
+            "locational": "N"
+        },
+        {
+            "segment": "villager",
+            "technical": "N",
+            "scifi-related": "N",
+            "anthropomorphic": "Y",
+            "emotionable": "Y",
+            "locational": "N"
+        },
+        {
+            "segment": "inhabitant",
+            "technical": "N",
+            "scifi-related": "N",
+            "anthropomorphic": "Y",
+            "emotionable": "Y",
+            "locational": "N"
+        },
+        {
+            "segment": "president",
+            "technical": "N",
+            "scifi-related": "N",
+            "anthropomorphic": "Y",
+            "emotionable": "Y",
+            "locational": "N"
+        },
+        {
+            "segment": "prime minister",
+            "technical": "N",
+            "scifi-related": "N",
+            "anthropomorphic": "Y",
+            "emotionable": "Y",
+            "locational": "N"
+        },
+        {
+            "segment": "employee",
+            "technical": "N",
+            "scifi-related": "N",
+            "anthropomorphic": "Y",
+            "emotionable": "Y",
+            "locational": "N"
+        },
+        {
+            "segment": "overlord",
+            "technical": "N",
+            "scifi-related": "Y",
+            "anthropomorphic": "Y",
+            "emotionable": "Y",
+            "locational": "N"
+        },
+        {
+            "segment": "team",
+            "technical": "N",
+            "scifi-related": "N",
+            "anthropomorphic": "Y",
+            "emotionable": "Y",
+            "locational": "N"
+        },
+        {
+            "segment": "pilgrim",
+            "technical": "N",
+            "scifi-related": "N",
+            "anthropomorphic": "Y",
+            "emotionable": "Y",
+            "locational": "N"
+        },
+        {
+            "segment": "zombie",
+            "technical": "N",
+            "scifi-related": "Y",
+            "anthropomorphic": "Y",
+            "emotionable": "Y",
+            "locational": "N"
+        },
+        {
+            "segment": "politician",
+            "technical": "N",
+            "scifi-related": "N",
+            "anthropomorphic": "Y",
+            "emotionable": "Y",
+            "locational": "N"
+        },
+        {
+            "segment": "civilian",
+            "technical": "N",
+            "scifi-related": "N",
+            "anthropomorphic": "Y",
+            "emotionable": "Y",
+            "locational": "N"
+        },
+        {
+            "segment": "horde",
+            "technical": "N",
+            "scifi-related": "Y",
+            "anthropomorphic": "Y",
+            "emotionable": "Y",
+            "locational": "N"
+        },
+        {
+            "segment": "undead",
+            "technical": "N",
+            "scifi-related": "Y",
+            "anthropomorphic": "Y",
+            "emotionable": "Y",
+            "locational": "N"
+        },
+        {
+            "segment": "farmer",
+            "technical": "N",
+            "scifi-related": "N",
+            "anthropomorphic": "Y",
+            "emotionable": "Y",
+            "locational": "N"
+        },
+        {
+            "segment": "private",
+            "technical": "N",
+            "scifi-related": "N",
+            "anthropomorphic": "Y",
+            "emotionable": "Y",
+            "locational": "N"
+        },
+        {
+            "segment": "colonel",
+            "technical": "N",
+            "scifi-related": "N",
+            "anthropomorphic": "Y",
+            "emotionable": "Y",
+            "locational": "N"
+        },
+        {
+            "segment": "general",
+            "technical": "N",
+            "scifi-related": "N",
+            "anthropomorphic": "Y",
+            "emotionable": "Y",
+            "locational": "N"
+        },
+        {
+            "segment": "god",
+            "technical": "N",
+            "scifi-related": "Y",
+            "anthropomorphic": "Y",
+            "emotionable": "Y",
+            "locational": "N"
+        },
+        {
+            "segment": "deity",
+            "technical": "N",
+            "scifi-related": "Y",
+            "anthropomorphic": "Y",
+            "emotionable": "Y",
+            "locational": "N"
+        },
+        {
+            "segment": "tortoise",
+            "technical": "N",
+            "scifi-related": "N",
+            "anthropomorphic": "Y",
+            "emotionable": "Y",
+            "locational": "N"
+        },
+        {
+            "segment": "dolphin",
+            "technical": "N",
+            "scifi-related": "N",
+            "anthropomorphic": "Y",
+            "emotionable": "Y",
+            "locational": "N"
+        },
+        {
+            "segment": "tiger",
+            "technical": "N",
+            "scifi-related": "N",
+            "anthropomorphic": "Y",
+            "emotionable": "Y",
+            "locational": "N"
+        },
+        {
+            "segment": "unicorn",
+            "technical": "N",
+            "scifi-related": "Y",
+            "anthropomorphic": "Y",
+            "emotionable": "Y",
+            "locational": "N"
+        },
+        {
+            "segment": "liger",
+            "technical": "N",
+            "scifi-related": "N",
+            "anthropomorphic": "Y",
+            "emotionable": "Y",
+            "locational": "N"
+        },
+        {
+            "segment": "leader",
+            "technical": "N",
+            "scifi-related": "N",
+            "anthropomorphic": "Y",
+            "emotionable": "Y",
+            "locational": "N"
+        },
+        {
+            "segment": "ghost",
+            "technical": "N",
+            "scifi-related": "Y",
+            "anthropomorphic": "Y",
+            "emotionable": "Y",
+            "locational": "N"
+        },
+        {
+            "segment": "mail carrier",
+            "technical": "N",
+            "scifi-related": "N",
+            "anthropomorphic": "Y",
+            "emotionable": "Y",
+            "locational": "N"
+        },
+        {
+            "segment": "spouse",
+            "technical": "N",
+            "scifi-related": "N",
+            "anthropomorphic": "Y",
+            "emotionable": "Y",
+            "locational": "N"
+        },
+        {
+            "segment": "pupil",
+            "technical": "N",
+            "scifi-related": "N",
+            "anthropomorphic": "Y",
+            "emotionable": "Y",
+            "locational": "N"
+        },
+        {
+            "segment": "student",
+            "technical": "N",
+            "scifi-related": "N",
+            "anthropomorphic": "Y",
+            "emotionable": "Y",
+            "locational": "N"
+        },
+        {
+            "segment": "teacher",
+            "technical": "N",
+            "scifi-related": "N",
+            "anthropomorphic": "Y",
+            "emotionable": "Y",
+            "locational": "N"
+        },
+        {
+            "segment": "vampire",
+            "technical": "N",
+            "scifi-related": "Y",
+            "anthropomorphic": "Y",
+            "emotionable": "Y",
+            "locational": "N"
+        },
+        {
+            "segment": "family",
+            "technical": "N",
+            "scifi-related": "N",
+            "anthropomorphic": "Y",
+            "emotionable": "Y",
+            "locational": "N"
+        },
+        {
+            "segment": "sorcerer",
+            "technical": "N",
+            "scifi-related": "Y",
+            "anthropomorphic": "Y",
+            "emotionable": "Y",
+            "locational": "N"
+        },
+        {
+            "segment": "professor",
+            "technical": "N",
+            "scifi-related": "N",
+            "anthropomorphic": "Y",
+            "emotionable": "Y",
+            "locational": "N"
+        },
+        {
+            "segment": "Elf",
+            "technical": "N",
+            "scifi-related": "Y",
+            "anthropomorphic": "Y",
+            "emotionable": "Y",
+            "locational": "N"
+        },
+        {
+            "segment": "Orc",
+            "technical": "N",
+            "scifi-related": "Y",
+            "anthropomorphic": "Y",
+            "emotionable": "Y",
+            "locational": "N"
+        },
+        {
+            "segment": "Archer",
+            "technical": "N",
+            "scifi-related": "Y",
+            "anthropomorphic": "Y",
+            "emotionable": "Y",
+            "locational": "N"
+        },
+        {
+            "segment": "Knight",
+            "technical": "N",
+            "scifi-related": "Y",
+            "anthropomorphic": "Y",
+            "emotionable": "Y",
+            "locational": "N"
+        },
+        {
+            "segment": "army",
+            "technical": "N",
+            "scifi-related": "N",
+            "anthropomorphic": "Y",
+            "emotionable": "Y",
+            "locational": "N"
+        },
+        {
+            "segment": "armada",
+            "technical": "Y",
+            "scifi-related": "Y",
+            "anthropomorphic": "Y",
+            "emotionable": "Y",
+            "locational": "N"
+        },
+        {
+            "segment": "engineer",
+            "technical": "N",
+            "scifi-related": "Y",
+            "anthropomorphic": "Y",
+            "emotionable": "Y",
+            "locational": "N"
+        },
+        {
+            "segment": "giant",
+            "technical": "N",
+            "scifi-related": "Y",
+            "anthropomorphic": "Y",
+            "emotionable": "Y",
+            "locational": "N"
+        },
+        {
+            "segment": "physicist",
+            "technical": "N",
+            "scifi-related": "N",
+            "anthropomorphic": "Y",
+            "emotionable": "Y",
+            "locational": "N"
+        },
+        {
+            "segment": "mother",
+            "technical": "N",
+            "scifi-related": "N",
+            "anthropomorphic": "Y",
+            "emotionable": "Y",
+            "locational": "N"
+        },
+        {
+            "segment": "father",
+            "technical": "N",
+            "scifi-related": "N",
+            "anthropomorphic": "Y",
+            "emotionable": "Y",
+            "locational": "N"
+        },
+        {
+            "segment": "son",
+            "technical": "N",
+            "scifi-related": "N",
+            "anthropomorphic": "Y",
+            "emotionable": "Y",
+            "locational": "N"
+        },
+        {
+            "segment": "daughter",
+            "technical": "N",
+            "scifi-related": "N",
+            "anthropomorphic": "Y",
+            "emotionable": "Y",
+            "locational": "N"
+        },
+        {
+            "segment": "witch",
+            "technical": "N",
+            "scifi-related": "Y",
+            "anthropomorphic": "Y",
+            "emotionable": "Y",
+            "locational": "N"
+        },
+        {
+            "segment": "activist",
+            "technical": "N",
+            "scifi-related": "N",
+            "anthropomorphic": "Y",
+            "emotionable": "Y",
+            "locational": "N"
+        },
+        {
+            "segment": "special operative",
+            "technical": "N",
+            "scifi-related": "N",
+            "anthropomorphic": "Y",
+            "emotionable": "Y",
+            "locational": "N"
+        },
+        {
+            "segment": "entity",
+            "technical": "N",
+            "scifi-related": "N",
+            "anthropomorphic": "Y",
+            "emotionable": "Y",
+            "locational": "N"
+        },
+        {
+            "segment": "criminal",
+            "technical": "N",
+            "scifi-related": "N",
+            "anthropomorphic": "Y",
+            "emotionable": "Y",
+            "locational": "N"
+        },
+        {
+            "segment": "philologist",
+            "technical": "N",
+            "scifi-related": "N",
+            "anthropomorphic": "Y",
+            "emotionable": "Y",
+            "locational": "N"
+        },
+        {
+            "segment": "Government",
+            "technical": "N",
+            "scifi-related": "N",
+            "anthropomorphic": "Y",
+            "emotionable": "Y",
+            "locational": "N"
+        },
+        {
+            "segment": "generation",
+            "technical": "N",
+            "scifi-related": "N",
+            "anthropomorphic": "Y",
+            "emotionable": "Y",
+            "locational": "N"
+        },
+        {
+            "segment": "alliance",
+            "technical": "N",
+            "scifi-related": "N",
+            "anthropomorphic": "Y",
+            "emotionable": "Y",
+            "locational": "N"
+        },
+        {
+            "segment": "Vacuum",
+            "technical": "Y",
+            "scifi-related": "Y",
+            "anthropomorphic": "N",
+            "emotionable": "N",
+            "locational": "Y"
+        },
+        {
+            "segment": "Galaxy",
+            "technical": "N",
+            "scifi-related": "Y",
+            "anthropomorphic": "N",
+            "emotionable": "N",
+            "locational": "Y"
+        },
+        {
+            "segment": "Star",
+            "technical": "Y",
+            "scifi-related": "Y",
+            "anthropomorphic": "N",
+            "emotionable": "N",
+            "locational": "Y"
+        },
+        {
+            "segment": "Nebula",
+            "technical": "N",
+            "scifi-related": "Y",
+            "anthropomorphic": "N",
+            "emotionable": "N",
+            "locational": "Y"
+        },
+        {
+            "segment": "Ice-Hauler",
+            "technical": "Y",
+            "scifi-related": "Y",
+            "anthropomorphic": "N",
+            "emotionable": "N",
+            "locational": "Y"
+        },
+        {
+            "segment": "Utopia",
+            "technical": "N",
+            "scifi-related": "Y",
+            "anthropomorphic": "N",
+            "emotionable": "N",
+            "locational": "Y"
+        },
+        {
+            "segment": "Dystopia",
+            "technical": "N",
+            "scifi-related": "Y",
+            "anthropomorphic": "N",
+            "emotionable": "N",
+            "locational": "Y"
+        },
+        {
+            "segment": "plane",
+            "technical": "Y",
+            "scifi-related": "N",
+            "anthropomorphic": "N",
+            "emotionable": "N",
+            "locational": "Y"
+        },
+        {
+            "segment": "submarine",
+            "technical": "Y",
+            "scifi-related": "N",
+            "anthropomorphic": "N",
+            "emotionable": "N",
+            "locational": "Y"
+        },
+        {
+            "segment": "city",
+            "technical": "Y",
+            "scifi-related": "N",
+            "anthropomorphic": "N",
+            "emotionable": "N",
+            "locational": "Y"
+        },
+        {
+            "segment": "farm",
+            "technical": "Y",
+            "scifi-related": "N",
+            "anthropomorphic": "N",
+            "emotionable": "N",
+            "locational": "Y"
+        },
+        {
+            "segment": "Dyson Sphere",
+            "technical": "Y",
+            "scifi-related": "Y",
+            "anthropomorphic": "N",
+            "emotionable": "N",
+            "locational": "Y"
+        },
+        {
+            "segment": "Buildings",
+            "technical": "Y",
+            "scifi-related": "N",
+            "anthropomorphic": "N",
+            "emotionable": "N",
+            "locational": "Y"
+        },
+        {
+            "segment": "Stargate",
+            "technical": "Y",
+            "scifi-related": "Y",
+            "anthropomorphic": "N",
+            "emotionable": "N",
+            "locational": "Y"
+        },
+        {
+            "segment": "Airlock",
+            "technical": "Y",
+            "scifi-related": "Y",
+            "anthropomorphic": "N",
+            "emotionable": "N",
+            "locational": "Y"
+        },
+        {
+            "segment": "Habitat",
+            "technical": "Y",
+            "scifi-related": "Y",
+            "anthropomorphic": "N",
+            "emotionable": "N",
+            "locational": "Y"
+        },
+        {
+            "segment": "Structures",
+            "technical": "Y",
+            "scifi-related": "N",
+            "anthropomorphic": "N",
+            "emotionable": "N",
+            "locational": "Y"
+        },
+        {
+            "segment": "Binary System",
+            "technical": "Y",
+            "scifi-related": "Y",
+            "anthropomorphic": "N",
+            "emotionable": "N",
+            "locational": "Y"
+        },
+        {
+            "segment": "Internet",
+            "technical": "Y",
+            "scifi-related": "Y",
+            "anthropomorphic": "N",
+            "emotionable": "N",
+            "locational": "Y"
+        },
+        {
+            "segment": "wormhole",
+            "technical": "Y",
+            "scifi-related": "Y",
+            "anthropomorphic": "N",
+            "emotionable": "N",
+            "locational": "Y"
+        },
+        {
+            "segment": "volcano",
+            "technical": "N",
+            "scifi-related": "N",
+            "anthropomorphic": "N",
+            "emotionable": "N",
+            "locational": "Y"
+        },
+        {
+            "segment": "casino",
+            "technical": "Y",
+            "scifi-related": "N",
+            "anthropomorphic": "N",
+            "emotionable": "N",
+            "locational": "Y"
+        },
+        {
+            "segment": "carnival",
+            "technical": "Y",
+            "scifi-related": "N",
+            "anthropomorphic": "N",
+            "emotionable": "N",
+            "locational": "Y"
+        },
+        {
+            "segment": "realm",
+            "technical": "Y",
+            "scifi-related": "Y",
+            "anthropomorphic": "N",
+            "emotionable": "N",
+            "locational": "Y"
+        },
+        {
+            "segment": "Asteroid",
+            "technical": "N",
+            "scifi-related": "Y",
+            "anthropomorphic": "N",
+            "emotionable": "Y",
+            "locational": "Y"
+        },
+        {
+            "segment": "Planet",
+            "technical": "N",
+            "scifi-related": "Y",
+            "anthropomorphic": "N",
+            "emotionable": "Y",
+            "locational": "Y"
+        },
+        {
+            "segment": "Spaceship",
+            "technical": "Y",
+            "scifi-related": "Y",
+            "anthropomorphic": "N",
+            "emotionable": "Y",
+            "locational": "Y"
+        },
+        {
+            "segment": "Space-freighter",
+            "technical": "Y",
+            "scifi-related": "Y",
+            "anthropomorphic": "N",
+            "emotionable": "Y",
+            "locational": "Y"
+        },
+        {
+            "segment": "Civilization",
+            "technical": "N",
+            "scifi-related": "N",
+            "anthropomorphic": "N",
+            "emotionable": "Y",
+            "locational": "Y"
+        },
+        {
+            "segment": "comet",
+            "technical": "N",
+            "scifi-related": "Y",
+            "anthropomorphic": "N",
+            "emotionable": "Y",
+            "locational": "Y"
+        },
+        {
+            "segment": "Moon base",
+            "technical": "Y",
+            "scifi-related": "Y",
+            "anthropomorphic": "N",
+            "emotionable": "Y",
+            "locational": "Y"
+        },
+        {
+            "segment": "Space Station",
+            "technical": "Y",
+            "scifi-related": "Y",
+            "anthropomorphic": "N",
+            "emotionable": "Y",
+            "locational": "Y"
+        },
+        {
+            "segment": "Video Game",
+            "technical": "Y",
+            "scifi-related": "Y",
+            "anthropomorphic": "N",
+            "emotionable": "Y",
+            "locational": "Y"
+        },
+        {
+            "segment": "Ringworld",
+            "technical": "Y",
+            "scifi-related": "Y",
+            "anthropomorphic": "N",
+            "emotionable": "Y",
+            "locational": "Y"
+        },
+        {
+            "segment": "black hole",
+            "technical": "Y",
+            "scifi-related": "Y",
+            "anthropomorphic": "N",
+            "emotionable": "Y",
+            "locational": "Y"
+        },
+        {
+            "segment": "Fleet",
+            "technical": "Y",
+            "scifi-related": "Y",
+            "anthropomorphic": "Y",
+            "emotionable": "N",
+            "locational": "Y"
+        },
+        {
+            "segment": "Kingdom",
+            "technical": "N",
+            "scifi-related": "N",
+            "anthropomorphic": "Y",
+            "emotionable": "N",
+            "locational": "Y"
+        },
+        {
+            "segment": "Colony",
+            "technical": "N",
+            "scifi-related": "Y",
+            "anthropomorphic": "Y",
+            "emotionable": "Y",
+            "locational": "Y"
+        },
+        {
+            "segment": "empire",
+            "technical": "N",
+            "scifi-related": "N",
+            "anthropomorphic": "Y",
+            "emotionable": "Y",
+            "locational": "Y"
+        },
+        {
+            "segment": "Asteroid Belt",
+            "technical": "N",
+            "scifi-related": "Y",
+            "anthropomorphic": "N",
+            "emotionable": "N",
+            "locational": "Y"
+        },
+        {
+            "segment": "Dark Matter",
+            "technical": "Y",
+            "scifi-related": "Y",
+            "anthropomorphic": "N",
+            "emotionable": "N",
+            "locational": "N"
+        },
+        {
+            "segment": "Matter",
+            "technical": "Y",
+            "scifi-related": "Y",
+            "anthropomorphic": "N",
+            "emotionable": "N",
+            "locational": "N"
+        },
+        {
+            "segment": "Physics",
+            "technical": "Y",
+            "scifi-related": "N",
+            "anthropomorphic": "N",
+            "emotionable": "N",
+            "locational": "N"
+        },
+        {
+            "segment": "Caste System",
+            "technical": "Y",
+            "scifi-related": "N",
+            "anthropomorphic": "N",
+            "emotionable": "N",
+            "locational": "N"
+        },
+        {
+            "segment": "conflict",
+            "technical": "Y",
+            "scifi-related": "N",
+            "anthropomorphic": "N",
+            "emotionable": "N",
+            "locational": "N"
+        },
+        {
+            "segment": "cataclysm",
+            "technical": "Y",
+            "scifi-related": "Y",
+            "anthropomorphic": "N",
+            "emotionable": "N",
+            "locational": "N"
+        },
+        {
+            "segment": "humankind",
+            "technical": "N",
+            "scifi-related": "N",
+            "anthropomorphic": "Y",
+            "emotionable": "Y",
+            "locational": "N"
+        },
+        {
+            "segment": "Humanity",
+            "technical": "N",
+            "scifi-related": "N",
+            "anthropomorphic": "Y",
+            "emotionable": "Y",
+            "locational": "N"
+        },
+        {
+            "segment": "Spacetime Continuum",
+            "technical": "Y",
+            "scifi-related": "Y",
+            "anthropomorphic": "N",
+            "emotionable": "N",
+            "locational": "Y"
+        }
+    ],
+    "action": [
+        {
+            "segment": "Takes the day off",
+            "scifi-related": "N",
+            "anthropomorphic": "Y",
+            "emotionable": "N",
+            "technical": "N",
+            "locational": "N"
+        },
+        {
+            "segment": "Becomes Stranded",
+            "scifi-related": "N",
+            "anthropomorphic": "Y",
+            "emotionable": "N",
+            "technical": "N",
+            "locational": "N"
+        },
+        {
+            "segment": "Attacks",
+            "scifi-related": "N",
+            "anthropomorphic": "Y",
+            "emotionable": "N",
+            "technical": "Y",
+            "locational": "N"
+        },
+        {
+            "segment": "Malfunctions",
+            "scifi-related": "N",
+            "anthropomorphic": "Y",
+            "emotionable": "N",
+            "technical": "Y",
+            "locational": "N"
+        },
+        {
+            "segment": "Loses Interest",
+            "scifi-related": "N",
+            "anthropomorphic": "Y",
+            "emotionable": "Y",
+            "technical": "N",
+            "locational": "N"
+        },
+        {
+            "segment": "Is Shut down",
+            "scifi-related": "N",
+            "anthropomorphic": "N",
+            "emotionable": "N",
+            "technical": "Y",
+            "locational": "N"
+        },
+        {
+            "segment": "goes rogue",
+            "scifi-related": "N",
+            "anthropomorphic": "Y",
+            "emotionable": "N",
+            "technical": "N",
+            "locational": "N"
+        },
+        {
+            "segment": "takes over",
+            "scifi-related": "N",
+            "anthropomorphic": "Y",
+            "emotionable": "N",
+            "technical": "N",
+            "locational": "N"
+        },
+        {
+            "segment": "Overthrows an oppressive regime",
+            "scifi-related": "N",
+            "anthropomorphic": "Y",
+            "emotionable": "N",
+            "technical": "N",
+            "locational": "N"
+        },
+        {
+            "segment": "Makes a discovery",
+            "scifi-related": "Y",
+            "anthropomorphic": "Y",
+            "emotionable": "N",
+            "technical": "N",
+            "locational": "N"
+        },
+        {
+            "segment": "Discovers Life",
+            "scifi-related": "Y",
+            "anthropomorphic": "Y",
+            "emotionable": "N",
+            "technical": "N",
+            "locational": "N"
+        },
+        {
+            "segment": "Rebels",
+            "scifi-related": "N",
+            "anthropomorphic": "Y",
+            "emotionable": "N",
+            "technical": "N",
+            "locational": "N"
+        },
+        {
+            "segment": "Is ejected from solar system",
+            "scifi-related": "Y",
+            "anthropomorphic": "Y",
+            "emotionable": "N",
+            "technical": "Y",
+            "locational": "N"
+        },
+        {
+            "segment": "Travels to a new planet",
+            "scifi-related": "Y",
+            "anthropomorphic": "Y",
+            "emotionable": "N",
+            "technical": "N",
+            "locational": "N"
+        },
+        {
+            "segment": "Travels to a new solar system",
+            "scifi-related": "Y",
+            "anthropomorphic": "Y",
+            "emotionable": "N",
+            "technical": "N",
+            "locational": "N"
+        },
+        {
+            "segment": "Enters a Black Hole",
+            "scifi-related": "Y",
+            "anthropomorphic": "Y",
+            "emotionable": "N",
+            "technical": "Y",
+            "locational": "N"
+        },
+        {
+            "segment": "Encites a Rebellion",
+            "scifi-related": "N",
+            "anthropomorphic": "Y",
+            "emotionable": "N",
+            "technical": "N",
+            "locational": "N"
+        },
+        {
+            "segment": "Reaches Earth",
+            "scifi-related": "Y",
+            "anthropomorphic": "Y",
+            "emotionable": "N",
+            "technical": "Y",
+            "locational": "N"
+        },
+        {
+            "segment": "Destroys Everything",
+            "scifi-related": "Y",
+            "anthropomorphic": "Y",
+            "emotionable": "N",
+            "technical": "Y",
+            "locational": "N"
+        },
+        {
+            "segment": "Brings World Peace",
+            "scifi-related": "N",
+            "anthropomorphic": "Y",
+            "emotionable": "Y",
+            "technical": "Y",
+            "locational": "N"
+        },
+        {
+            "segment": "Falls from orbit",
+            "scifi-related": "Y",
+            "anthropomorphic": "Y",
+            "emotionable": "N",
+            "technical": "Y",
+            "locational": "N"
+        },
+        {
+            "segment": "Plays God",
+            "scifi-related": "Y",
+            "anthropomorphic": "Y",
+            "emotionable": "N",
+            "technical": "N",
+            "locational": "N"
+        },
+        {
+            "segment": "Creates Life",
+            "scifi-related": "Y",
+            "anthropomorphic": "Y",
+            "emotionable": "N",
+            "technical": "Y",
+            "locational": "N"
+        },
+        {
+            "segment": "Loses Family",
+            "scifi-related": "N",
+            "anthropomorphic": "Y",
+            "emotionable": "N",
+            "technical": "N",
+            "locational": "N"
+        },
+        {
+            "segment": "Becomes Friendly",
+            "scifi-related": "N",
+            "anthropomorphic": "Y",
+            "emotionable": "Y",
+            "technical": "N",
+            "locational": "N"
+        },
+        {
+            "segment": "Gets stuck in the past",
+            "scifi-related": "Y",
+            "anthropomorphic": "Y",
+            "emotionable": "N",
+            "technical": "N",
+            "locational": "N"
+        },
+        {
+            "segment": "Travels to the future",
+            "scifi-related": "Y",
+            "anthropomorphic": "Y",
+            "emotionable": "N",
+            "technical": "N",
+            "locational": "N"
+        },
+        {
+            "segment": "Tries to Survive",
+            "scifi-related": "N",
+            "anthropomorphic": "Y",
+            "emotionable": "N",
+            "technical": "N",
+            "locational": "N"
+        },
+        {
+            "segment": "Has an existential crisis",
+            "scifi-related": "N",
+            "anthropomorphic": "Y",
+            "emotionable": "N",
+            "technical": "N",
+            "locational": "N"
+        },
+        {
+            "segment": "Fails an examination",
+            "scifi-related": "N",
+            "anthropomorphic": "Y",
+            "emotionable": "N",
+            "technical": "Y",
+            "locational": "N"
+        },
+        {
+            "segment": "Invades Earth",
+            "scifi-related": "Y",
+            "anthropomorphic": "Y",
+            "emotionable": "N",
+            "technical": "N",
+            "locational": "N"
+        },
+        {
+            "segment": "Eradicates a Species",
+            "scifi-related": "Y",
+            "anthropomorphic": "Y",
+            "emotionable": "N",
+            "technical": "Y",
+            "locational": "N"
+        },
+        {
+            "segment": "Terraforms a Planet",
+            "scifi-related": "Y",
+            "anthropomorphic": "Y",
+            "emotionable": "N",
+            "technical": "Y",
+            "locational": "N"
+        },
+        {
+            "segment": "Is Misunderstood",
+            "scifi-related": "N",
+            "anthropomorphic": "Y",
+            "emotionable": "Y",
+            "technical": "Y",
+            "locational": "N"
+        },
+        {
+            "segment": "Co-exists",
+            "scifi-related": "N",
+            "anthropomorphic": "Y",
+            "emotionable": "N",
+            "technical": "N",
+            "locational": "N"
+        },
+        {
+            "segment": "Ends Society",
+            "scifi-related": "Y",
+            "anthropomorphic": "Y",
+            "emotionable": "Y",
+            "technical": "Y",
+            "locational": "N"
+        },
+        {
+            "segment": "Records History",
+            "scifi-related": "N",
+            "anthropomorphic": "Y",
+            "emotionable": "N",
+            "technical": "N",
+            "locational": "N"
+        },
+        {
+            "segment": "Causes the end of everything",
+            "scifi-related": "Y",
+            "anthropomorphic": "Y",
+            "emotionable": "Y",
+            "technical": "Y",
+            "locational": "N"
+        },
+        {
+            "segment": "Starts Anew",
+            "scifi-related": "N",
+            "anthropomorphic": "Y",
+            "emotionable": "Y",
+            "technical": "N",
+            "locational": "N"
+        },
+        {
+            "segment": "Creates a new society",
+            "scifi-related": "Y",
+            "anthropomorphic": "Y",
+            "emotionable": "N",
+            "technical": "N",
+            "locational": "N"
+        },
+        {
+            "segment": "Goes it Alone",
+            "scifi-related": "N",
+            "anthropomorphic": "Y",
+            "emotionable": "N",
+            "technical": "N",
+            "locational": "N"
+        },
+        {
+            "segment": "Saves the Day",
+            "scifi-related": "N",
+            "anthropomorphic": "Y",
+            "emotionable": "N",
+            "technical": "N",
+            "locational": "N"
+        },
+        {
+            "segment": "Saves the World",
+            "scifi-related": "Y",
+            "anthropomorphic": "Y",
+            "emotionable": "N",
+            "technical": "Y",
+            "locational": "N"
+        },
+        {
+            "segment": "Awaits Death",
+            "scifi-related": "Y",
+            "anthropomorphic": "Y",
+            "emotionable": "N",
+            "technical": "N",
+            "locational": "N"
+        },
+        {
+            "segment": "Is sent to their death",
+            "scifi-related": "N",
+            "anthropomorphic": "Y",
+            "emotionable": "N",
+            "technical": "N",
+            "locational": "N"
+        },
+        {
+            "segment": "Enters A New Dimension",
+            "scifi-related": "Y",
+            "anthropomorphic": "Y",
+            "emotionable": "Y",
+            "technical": "N",
+            "locational": "N"
+        },
+        {
+            "segment": "Enters a new Universe",
+            "scifi-related": "Y",
+            "anthropomorphic": "Y",
+            "emotionable": "Y",
+            "technical": "N",
+            "locational": "N"
+        },
+        {
+            "segment": "Makes Contact",
+            "scifi-related": "Y",
+            "anthropomorphic": "Y",
+            "emotionable": "N",
+            "technical": "N",
+            "locational": "N"
+        },
+        {
+            "segment": "Just wants to be loved",
+            "scifi-related": "N",
+            "anthropomorphic": "Y",
+            "emotionable": "Y",
+            "technical": "N",
+            "locational": "N"
+        },
+        {
+            "segment": "Wants to be left Alone",
+            "scifi-related": "N",
+            "anthropomorphic": "Y",
+            "emotionable": "Y",
+            "technical": "N",
+            "locational": "N"
+        },
+        {
+            "segment": "Restores Peace",
+            "scifi-related": "N",
+            "anthropomorphic": "Y",
+            "emotionable": "Y",
+            "technical": "N",
+            "locational": "N"
+        },
+        {
+            "segment": "Goes on an Epic Adventure",
+            "scifi-related": "N",
+            "anthropomorphic": "Y",
+            "emotionable": "N",
+            "technical": "N",
+            "locational": "N"
+        },
+        {
+            "segment": "Goes to War",
+            "scifi-related": "N",
+            "anthropomorphic": "Y",
+            "emotionable": "N",
+            "technical": "N",
+            "locational": "N"
+        },
+        {
+            "segment": "Writes a Novel",
+            "scifi-related": "N",
+            "anthropomorphic": "Y",
+            "emotionable": "N",
+            "technical": "N",
+            "locational": "N"
+        },
+        {
+            "segment": "Tries Poetry",
+            "scifi-related": "N",
+            "anthropomorphic": "Y",
+            "emotionable": "N",
+            "technical": "N",
+            "locational": "N"
+        },
+        {
+            "segment": "Fulfills their Destiny",
+            "scifi-related": "N",
+            "anthropomorphic": "Y",
+            "emotionable": "Y",
+            "technical": "N",
+            "locational": "N"
+        },
+        {
+            "segment": "Unravels the Fabric of Spacetime",
+            "scifi-related": "Y",
+            "anthropomorphic": "Y",
+            "emotionable": "Y",
+            "technical": "Y",
+            "locational": "N"
+        },
+        {
+            "segment": "Colonizes a world",
+            "scifi-related": "Y",
+            "anthropomorphic": "Y",
+            "emotionable": "N",
+            "technical": "N",
+            "locational": "N"
+        },
+        {
+            "segment": "Gains Freedom",
+            "scifi-related": "N",
+            "anthropomorphic": "Y",
+            "emotionable": "N",
+            "technical": "N",
+            "locational": "N"
+        },
+        {
+            "segment": "Is imprisoned",
+            "scifi-related": "N",
+            "anthropomorphic": "Y",
+            "emotionable": "N",
+            "technical": "N",
+            "locational": "N"
+        },
+        {
+            "segment": "Attempts a Heist",
+            "scifi-related": "N",
+            "anthropomorphic": "Y",
+            "emotionable": "N",
+            "technical": "N",
+            "locational": "N"
+        },
+        {
+            "segment": "Unravels a mystery",
+            "scifi-related": "N",
+            "anthropomorphic": "Y",
+            "emotionable": "N",
+            "technical": "N",
+            "locational": "N"
+        },
+        {
+            "segment": "Turns up dead",
+            "scifi-related": "N",
+            "anthropomorphic": "Y",
+            "emotionable": "N",
+            "technical": "N",
+            "locational": "N"
+        },
+        {
+            "segment": "Is rendered obsolete",
+            "scifi-related": "Y",
+            "anthropomorphic": "N",
+            "emotionable": "N",
+            "technical": "Y",
+            "locational": "N"
+        },
+        {
+            "segment": "Discovers its origin",
+            "scifi-related": "Y",
+            "anthropomorphic": "Y",
+            "emotionable": "Y",
+            "technical": "N",
+            "locational": "N"
+        },
+        {
+            "segment": "goes to Mars",
+            "scifi-related": "Y",
+            "anthropomorphic": "Y",
+            "emotionable": "N",
+            "technical": "N",
+            "locational": "N"
+        },
+        {
+            "segment": "goes to the Moon",
+            "scifi-related": "Y",
+            "anthropomorphic": "Y",
+            "emotionable": "N",
+            "technical": "N",
+            "locational": "N"
+        },
+        {
+            "segment": "Ponders the meaning of life",
+            "scifi-related": "Y",
+            "anthropomorphic": "Y",
+            "emotionable": "Y",
+            "technical": "N",
+            "locational": "N"
+        },
+        {
+            "segment": "Comes of Age",
+            "scifi-related": "N",
+            "anthropomorphic": "Y",
+            "emotionable": "Y",
+            "technical": "N",
+            "locational": "N"
+        },
+        {
+            "segment": "Is abducted by Aliens",
+            "scifi-related": "Y",
+            "anthropomorphic": "Y",
+            "emotionable": "N",
+            "technical": "N",
+            "locational": "N"
+        },
+        {
+            "segment": "Learns that time is meaningless",
+            "scifi-related": "Y",
+            "anthropomorphic": "Y",
+            "emotionable": "Y",
+            "technical": "N",
+            "locational": "N"
+        },
+        {
+            "segment": "tracks down a bounty",
+            "scifi-related": "N",
+            "anthropomorphic": "Y",
+            "emotionable": "N",
+            "technical": "N",
+            "locational": "N"
+        },
+        {
+            "segment": "goes on a quest",
+            "scifi-related": "Y",
+            "anthropomorphic": "Y",
+            "emotionable": "N",
+            "technical": "N",
+            "locational": "N"
+        },
+        {
+            "segment": "fights the forces of evil",
+            "scifi-related": "Y",
+            "anthropomorphic": "Y",
+            "emotionable": "N",
+            "technical": "N",
+            "locational": "N"
+        },
+        {
+            "segment": "defends themself",
+            "scifi-related": "N",
+            "anthropomorphic": "Y",
+            "emotionable": "N",
+            "technical": "N",
+            "locational": "N"
+        },
+        {
+            "segment": "does their best",
+            "scifi-related": "N",
+            "anthropomorphic": "Y",
+            "emotionable": "N",
+            "technical": "N",
+            "locational": "N"
+        },
+        {
+            "segment": "has a vision",
+            "scifi-related": "Y",
+            "anthropomorphic": "Y",
+            "emotionable": "N",
+            "technical": "N",
+            "locational": "N"
+        },
+        {
+            "segment": "searches for a new home",
+            "scifi-related": "N",
+            "anthropomorphic": "Y",
+            "emotionable": "N",
+            "technical": "N",
+            "locational": "N"
+        },
+        {
+            "segment": "leaves Earth behind",
+            "scifi-related": "Y",
+            "anthropomorphic": "Y",
+            "emotionable": "N",
+            "technical": "N",
+            "locational": "N"
+        },
+        {
+            "segment": "conquers",
+            "scifi-related": "N",
+            "anthropomorphic": "Y",
+            "emotionable": "N",
+            "technical": "Y",
+            "locational": "N"
+        },
+        {
+            "segment": "invents a weapon",
+            "scifi-related": "Y",
+            "anthropomorphic": "Y",
+            "emotionable": "N",
+            "technical": "N",
+            "locational": "N"
+        },
+        {
+            "segment": "conducts an interview",
+            "scifi-related": "N",
+            "anthropomorphic": "Y",
+            "emotionable": "N",
+            "technical": "N",
+            "locational": "N"
+        },
+        {
+            "segment": "is interviewed",
+            "scifi-related": "N",
+            "anthropomorphic": "Y",
+            "emotionable": "N",
+            "technical": "N",
+            "locational": "N"
+        },
+        {
+            "segment": "dreams of electric sheep",
+            "scifi-related": "Y",
+            "anthropomorphic": "Y",
+            "emotionable": "N",
+            "technical": "Y",
+            "locational": "N"
+        },
+        {
+            "segment": "fears being discovered",
+            "scifi-related": "N",
+            "anthropomorphic": "Y",
+            "emotionable": "N",
+            "technical": "N",
+            "locational": "N"
+        },
+        {
+            "segment": "conducts an experiment",
+            "scifi-related": "Y",
+            "anthropomorphic": "Y",
+            "emotionable": "N",
+            "technical": "N",
+            "locational": "N"
+        },
+        {
+            "segment": "comes to terms with the past",
+            "scifi-related": "N",
+            "anthropomorphic": "Y",
+            "emotionable": "N",
+            "technical": "N",
+            "locational": "N"
+        },
+        {
+            "segment": "is fixed",
+            "scifi-related": "N",
+            "anthropomorphic": "N",
+            "emotionable": "N",
+            "technical": "Y",
+            "locational": "N"
+        },
+        {
+            "segment": "is corrected",
+            "scifi-related": "N",
+            "anthropomorphic": "Y",
+            "emotionable": "N",
+            "technical": "Y",
+            "locational": "N"
+        },
+        {
+            "segment": "goes to school",
+            "scifi-related": "N",
+            "anthropomorphic": "Y",
+            "emotionable": "N",
+            "technical": "N",
+            "locational": "N"
+        },
+        {
+            "segment": "goes to bootcamp",
+            "scifi-related": "N",
+            "anthropomorphic": "Y",
+            "emotionable": "N",
+            "technical": "N",
+            "locational": "N"
+        },
+        {
+            "segment": "takes an exam",
+            "scifi-related": "N",
+            "anthropomorphic": "Y",
+            "emotionable": "N",
+            "technical": "N",
+            "locational": "N"
+        },
+        {
+            "segment": "is teleported",
+            "scifi-related": "Y",
+            "anthropomorphic": "Y",
+            "emotionable": "N",
+            "technical": "Y",
+            "locational": "N"
+        },
+        {
+            "segment": "has their home destroyed",
+            "scifi-related": "N",
+            "anthropomorphic": "Y",
+            "emotionable": "N",
+            "technical": "N",
+            "locational": "N"
+        },
+        {
+            "segment": "is banished",
+            "scifi-related": "N",
+            "anthropomorphic": "Y",
+            "emotionable": "N",
+            "technical": "N",
+            "locational": "N"
+        },
+        {
+            "segment": "learns a language",
+            "scifi-related": "N",
+            "anthropomorphic": "Y",
+            "emotionable": "N",
+            "technical": "N",
+            "locational": "N"
+        },
+        {
+            "segment": "searches for their parent",
+            "scifi-related": "N",
+            "anthropomorphic": "Y",
+            "emotionable": "N",
+            "technical": "N",
+            "locational": "N"
+        },
+        {
+            "segment": "threatens the planet",
+            "scifi-related": "Y",
+            "anthropomorphic": "Y",
+            "emotionable": "N",
+            "technical": "Y",
+            "locational": "N"
+        },
+        {
+            "segment": "preserves the past",
+            "scifi-related": "N",
+            "anthropomorphic": "Y",
+            "emotionable": "N",
+            "technical": "N",
+            "locational": "N"
+        },
+        {
+            "segment": "creates a device",
+            "scifi-related": "Y",
+            "anthropomorphic": "Y",
+            "emotionable": "N",
+            "technical": "N",
+            "locational": "N"
+        },
+        {
+            "segment": "becomes prey",
+            "scifi-related": "Y",
+            "anthropomorphic": "Y",
+            "emotionable": "N",
+            "technical": "N",
+            "locational": "N"
+        },
+        {
+            "segment": "becomes trapped",
+            "scifi-related": "N",
+            "anthropomorphic": "Y",
+            "emotionable": "N",
+            "technical": "N",
+            "locational": "N"
+        },
+        {
+            "segment": "hides from danger",
+            "scifi-related": "N",
+            "anthropomorphic": "Y",
+            "emotionable": "N",
+            "technical": "N",
+            "locational": "N"
+        },
+        {
+            "segment": "awaits rescue",
+            "scifi-related": "Y",
+            "anthropomorphic": "Y",
+            "emotionable": "N",
+            "technical": "N",
+            "locational": "N"
+        },
+        {
+            "segment": "comes face to face with the enemy",
+            "scifi-related": "N",
+            "anthropomorphic": "Y",
+            "emotionable": "N",
+            "technical": "N",
+            "locational": "N"
+        },
+        {
+            "segment": "undergoes brain surgery",
+            "scifi-related": "N",
+            "anthropomorphic": "Y",
+            "emotionable": "N",
+            "technical": "N",
+            "locational": "N"
+        },
+        {
+            "segment": "becomes telepathic",
+            "scifi-related": "Y",
+            "anthropomorphic": "Y",
+            "emotionable": "N",
+            "technical": "N",
+            "locational": "N"
+        },
+        {
+            "segment": "conquers earth",
+            "scifi-related": "Y",
+            "anthropomorphic": "Y",
+            "emotionable": "N",
+            "technical": "Y",
+            "locational": "N"
+        },
+        {
+            "segment": "pledges their devotion",
+            "scifi-related": "N",
+            "anthropomorphic": "Y",
+            "emotionable": "N",
+            "technical": "N",
+            "locational": "N"
+        },
+        {
+            "segment": "discovers their destiny",
+            "scifi-related": "Y",
+            "anthropomorphic": "Y",
+            "emotionable": "N",
+            "technical": "N",
+            "locational": "N"
+        },
+        {
+            "segment": "overthrows a ruler",
+            "scifi-related": "N",
+            "anthropomorphic": "Y",
+            "emotionable": "N",
+            "technical": "N",
+            "locational": "N"
+        },
+        {
+            "segment": "goes on a mission",
+            "scifi-related": "N",
+            "anthropomorphic": "Y",
+            "emotionable": "N",
+            "technical": "N",
+            "locational": "N"
+        },
+        {
+            "segment": "goes on a mission gone wrong",
+            "scifi-related": "N",
+            "anthropomorphic": "Y",
+            "emotionable": "N",
+            "technical": "N",
+            "locational": "N"
+        },
+        {
+            "segment": "has depression",
+            "scifi-related": "N",
+            "anthropomorphic": "Y",
+            "emotionable": "Y",
+            "technical": "N",
+            "locational": "N"
+        },
+        {
+            "segment": "has anxiety",
+            "scifi-related": "N",
+            "anthropomorphic": "Y",
+            "emotionable": "Y",
+            "technical": "N",
+            "locational": "N"
+        },
+        {
+            "segment": "becomes king",
+            "scifi-related": "N",
+            "anthropomorphic": "Y",
+            "emotionable": "N",
+            "technical": "N",
+            "locational": "N"
+        },
+        {
+            "segment": "becomes ruler",
+            "scifi-related": "N",
+            "anthropomorphic": "Y",
+            "emotionable": "N",
+            "technical": "N",
+            "locational": "N"
+        },
+        {
+            "segment": "becomes queen",
+            "scifi-related": "N",
+            "anthropomorphic": "Y",
+            "emotionable": "N",
+            "technical": "N",
+            "locational": "N"
+        },
+        {
+            "segment": "searches for the fountain of youth",
+            "scifi-related": "Y",
+            "anthropomorphic": "Y",
+            "emotionable": "N",
+            "technical": "N",
+            "locational": "N"
+        },
+        {
+            "segment": "searches for immortality",
+            "scifi-related": "Y",
+            "anthropomorphic": "Y",
+            "emotionable": "N",
+            "technical": "N",
+            "locational": "N"
+        },
+        {
+            "segment": "becomes immortal",
+            "scifi-related": "Y",
+            "anthropomorphic": "Y",
+            "emotionable": "N",
+            "technical": "N",
+            "locational": "N"
+        },
+        {
+            "segment": "hangs out",
+            "scifi-related": "N",
+            "anthropomorphic": "Y",
+            "emotionable": "N",
+            "technical": "N",
+            "locational": "N"
+        },
+        {
+            "segment": "skips work",
+            "scifi-related": "N",
+            "anthropomorphic": "Y",
+            "emotionable": "N",
+            "technical": "N",
+            "locational": "N"
+        },
+        {
+            "segment": "skips town",
+            "scifi-related": "N",
+            "anthropomorphic": "Y",
+            "emotionable": "N",
+            "technical": "N",
+            "locational": "N"
+        },
+        {
+            "segment": "decides to just not",
+            "scifi-related": "N",
+            "anthropomorphic": "Y",
+            "emotionable": "Y",
+            "technical": "N",
+            "locational": "N"
+        },
+        {
+            "segment": "goes to a big city",
+            "scifi-related": "N",
+            "anthropomorphic": "Y",
+            "emotionable": "N",
+            "technical": "N",
+            "locational": "N"
+        },
+        {
+            "segment": "leaves the big city",
+            "scifi-related": "N",
+            "anthropomorphic": "Y",
+            "emotionable": "N",
+            "technical": "N",
+            "locational": "N"
+        },
+        {
+            "segment": "ventures far into space",
+            "scifi-related": "Y",
+            "anthropomorphic": "Y",
+            "emotionable": "N",
+            "technical": "N",
+            "locational": "N"
+        },
+        {
+            "segment": "approaches a black hole",
+            "scifi-related": "Y",
+            "anthropomorphic": "Y",
+            "emotionable": "N",
+            "technical": "Y",
+            "locational": "N"
+        },
+        {
+            "segment": "signs up for an experiment",
+            "scifi-related": "Y",
+            "anthropomorphic": "Y",
+            "emotionable": "N",
+            "technical": "N",
+            "locational": "N"
+        },
+        {
+            "segment": "comes in contact with aliens",
+            "scifi-related": "Y",
+            "anthropomorphic": "Y",
+            "emotionable": "N",
+            "technical": "Y",
+            "locational": "N"
+        },
+        {
+            "segment": "saves humanity",
+            "scifi-related": "Y",
+            "anthropomorphic": "Y",
+            "emotionable": "Y",
+            "technical": "Y",
+            "locational": "N"
+        },
+        {
+            "segment": "discovers a secret",
+            "scifi-related": "N",
+            "anthropomorphic": "Y",
+            "emotionable": "N",
+            "technical": "N",
+            "locational": "N"
+        },
+        {
+            "segment": "voyages to a new world",
+            "scifi-related": "Y",
+            "anthropomorphic": "Y",
+            "emotionable": "N",
+            "technical": "N",
+            "locational": "N"
+        },
+        {
+            "segment": "goes on a voyage",
+            "scifi-related": "N",
+            "anthropomorphic": "Y",
+            "emotionable": "N",
+            "technical": "N",
+            "locational": "N"
+        },
+        {
+            "segment": "embarks on a journey",
+            "scifi-related": "N",
+            "anthropomorphic": "Y",
+            "emotionable": "N",
+            "technical": "N",
+            "locational": "N"
+        },
+        {
+            "segment": "recovers an artifact",
+            "scifi-related": "Y",
+            "anthropomorphic": "Y",
+            "emotionable": "N",
+            "technical": "N",
+            "locational": "N"
+        },
+        {
+            "segment": "explores a spaceship",
+            "scifi-related": "Y",
+            "anthropomorphic": "Y",
+            "emotionable": "N",
+            "technical": "N",
+            "locational": "N"
+        },
+        {
+            "segment": "explores a colony",
+            "scifi-related": "Y",
+            "anthropomorphic": "Y",
+            "emotionable": "N",
+            "technical": "N",
+            "locational": "N"
+        },
+        {
+            "segment": "abandons their post",
+            "scifi-related": "N",
+            "anthropomorphic": "Y",
+            "emotionable": "N",
+            "technical": "N",
+            "locational": "N"
+        },
+        {
+            "segment": "decides \"to hell with it\"",
+            "scifi-related": "N",
+            "anthropomorphic": "Y",
+            "emotionable": "Y",
+            "technical": "N",
+            "locational": "N"
+        },
+        {
+            "segment": "joins forces",
+            "scifi-related": "N",
+            "anthropomorphic": "Y",
+            "emotionable": "N",
+            "technical": "N",
+            "locational": "N"
+        },
+        {
+            "segment": "tries to make ends meet",
+            "scifi-related": "N",
+            "anthropomorphic": "Y",
+            "emotionable": "N",
+            "technical": "N",
+            "locational": "N"
+        },
+        {
+            "segment": "assists a friend",
+            "scifi-related": "N",
+            "anthropomorphic": "Y",
+            "emotionable": "N",
+            "technical": "N",
+            "locational": "N"
+        },
+        {
+            "segment": "helps an ally",
+            "scifi-related": "N",
+            "anthropomorphic": "Y",
+            "emotionable": "N",
+            "technical": "Y",
+            "locational": "N"
+        },
+        {
+            "segment": "goes into space",
+            "scifi-related": "Y",
+            "anthropomorphic": "Y",
+            "emotionable": "N",
+            "technical": "Y",
+            "locational": "N"
+        },
+        {
+            "segment": "goes on a spacewalk",
+            "scifi-related": "Y",
+            "anthropomorphic": "Y",
+            "emotionable": "N",
+            "technical": "N",
+            "locational": "N"
+        },
+        {
+            "segment": "lives their last day",
+            "scifi-related": "N",
+            "anthropomorphic": "Y",
+            "emotionable": "N",
+            "technical": "N",
+            "locational": "N"
+        },
+        {
+            "segment": "finds out they are dying",
+            "scifi-related": "N",
+            "anthropomorphic": "Y",
+            "emotionable": "N",
+            "technical": "N",
+            "locational": "N"
+        },
+        {
+            "segment": "seeks world peace",
+            "scifi-related": "N",
+            "anthropomorphic": "Y",
+            "emotionable": "N",
+            "technical": "N",
+            "locational": "N"
+        },
+        {
+            "segment": "eradicates suffering",
+            "scifi-related": "Y",
+            "anthropomorphic": "Y",
+            "emotionable": "N",
+            "technical": "Y",
+            "locational": "N"
+        },
+        {
+            "segment": "doesn't feel like working",
+            "scifi-related": "N",
+            "anthropomorphic": "Y",
+            "emotionable": "Y",
+            "technical": "Y",
+            "locational": "N"
+        },
+        {
+            "segment": "chronicles current events",
+            "scifi-related": "N",
+            "anthropomorphic": "Y",
+            "emotionable": "N",
+            "technical": "N",
+            "locational": "N"
+        },
+        {
+            "segment": "is miraculously cured",
+            "scifi-related": "Y",
+            "anthropomorphic": "Y",
+            "emotionable": "N",
+            "technical": "N",
+            "locational": "N"
+        },
+        {
+            "segment": "journeys to a magical realm",
+            "scifi-related": "Y",
+            "anthropomorphic": "Y",
+            "emotionable": "N",
+            "technical": "N",
+            "locational": "N"
+        },
+        {
+            "segment": "defeats the evil ruler",
+            "scifi-related": "N",
+            "anthropomorphic": "Y",
+            "emotionable": "N",
+            "technical": "N",
+            "locational": "N"
+        },
+        {
+            "segment": "goes insane",
+            "scifi-related": "N",
+            "anthropomorphic": "Y",
+            "emotionable": "Y",
+            "technical": "N",
+            "locational": "N"
+        },
+        {
+            "segment": "regains consciousness",
+            "scifi-related": "N",
+            "anthropomorphic": "Y",
+            "emotionable": "N",
+            "technical": "N",
+            "locational": "N"
+        },
+        {
+            "segment": "is sentenced to death",
+            "scifi-related": "N",
+            "anthropomorphic": "Y",
+            "emotionable": "N",
+            "technical": "N",
+            "locational": "N"
+        },
+        {
+            "segment": "is pardoned",
+            "scifi-related": "N",
+            "anthropomorphic": "Y",
+            "emotionable": "N",
+            "technical": "N",
+            "locational": "N"
+        },
+        {
+            "segment": "is thwarted",
+            "scifi-related": "N",
+            "anthropomorphic": "Y",
+            "emotionable": "N",
+            "technical": "N",
+            "locational": "N"
+        },
+        {
+            "segment": "goes extinct",
+            "scifi-related": "Y",
+            "anthropomorphic": "Y",
+            "emotionable": "N",
+            "technical": "N",
+            "locational": "N"
+        },
+        {
+            "segment": "embraces their destiny",
+            "scifi-related": "N",
+            "anthropomorphic": "Y",
+            "emotionable": "N",
+            "technical": "N",
+            "locational": "N"
+        },
+        {
+            "segment": "unleashes evil",
+            "scifi-related": "N",
+            "anthropomorphic": "Y",
+            "emotionable": "N",
+            "technical": "N",
+            "locational": "N"
+        },
+        {
+            "segment": "destroys a species",
+            "scifi-related": "Y",
+            "anthropomorphic": "Y",
+            "emotionable": "Y",
+            "technical": "Y",
+            "locational": "N"
+        },
+        {
+            "segment": "struggles to survive",
+            "scifi-related": "N",
+            "anthropomorphic": "Y",
+            "emotionable": "N",
+            "technical": "N",
+            "locational": "N"
+        },
+        {
+            "segment": "barricades their home",
+            "scifi-related": "N",
+            "anthropomorphic": "Y",
+            "emotionable": "N",
+            "technical": "N",
+            "locational": "N"
+        },
+        {
+            "segment": "has a breakdown",
+            "scifi-related": "N",
+            "anthropomorphic": "Y",
+            "emotionable": "N",
+            "technical": "Y",
+            "locational": "N"
+        },
+        {
+            "segment": "finds a friend",
+            "scifi-related": "N",
+            "anthropomorphic": "Y",
+            "emotionable": "N",
+            "technical": "N",
+            "locational": "N"
+        },
+        {
+            "segment": "meets their maker",
+            "scifi-related": "Y",
+            "anthropomorphic": "Y",
+            "emotionable": "N",
+            "technical": "N",
+            "locational": "N"
+        },
+        {
+            "segment": "feels emotion for the first time",
+            "scifi-related": "Y",
+            "anthropomorphic": "Y",
+            "emotionable": "Y",
+            "technical": "Y",
+            "locational": "N"
+        },
+        {
+            "segment": "forges a powerful weapon",
+            "scifi-related": "Y",
+            "anthropomorphic": "Y",
+            "emotionable": "N",
+            "technical": "N",
+            "locational": "N"
+        },
+        {
+            "segment": "confronts their attacker",
+            "scifi-related": "N",
+            "anthropomorphic": "Y",
+            "emotionable": "N",
+            "technical": "Y",
+            "locational": "N"
+        },
+        {
+            "segment": "journeys to the center of the earth",
+            "scifi-related": "Y",
+            "anthropomorphic": "Y",
+            "emotionable": "N",
+            "technical": "N",
+            "locational": "N"
+        },
+        {
+            "segment": "makes a terrifying discovery",
+            "scifi-related": "Y",
+            "anthropomorphic": "Y",
+            "emotionable": "N",
+            "technical": "N",
+            "locational": "N"
+        },
+        {
+            "segment": "is terrified",
+            "scifi-related": "N",
+            "anthropomorphic": "Y",
+            "emotionable": "Y",
+            "technical": "N",
+            "locational": "N"
+        },
+        {
+            "segment": "accidentally starts a war",
+            "scifi-related": "Y",
+            "anthropomorphic": "Y",
+            "emotionable": "Y",
+            "technical": "Y",
+            "locational": "N"
+        },
+        {
+            "segment": "incites war",
+            "scifi-related": "N",
+            "anthropomorphic": "Y",
+            "emotionable": "Y",
+            "technical": "Y",
+            "locational": "N"
+        },
+        {
+            "segment": "raises a child",
+            "scifi-related": "N",
+            "anthropomorphic": "Y",
+            "emotionable": "N",
+            "technical": "N",
+            "locational": "N"
+        },
+        {
+            "segment": "obtains a mysterious device",
+            "scifi-related": "Y",
+            "anthropomorphic": "Y",
+            "emotionable": "N",
+            "technical": "N",
+            "locational": "N"
+        },
+        {
+            "segment": "faces a dificult choice",
+            "scifi-related": "N",
+            "anthropomorphic": "Y",
+            "emotionable": "N",
+            "technical": "N",
+            "locational": "N"
+        },
+        {
+            "segment": "sarifices themself",
+            "scifi-related": "N",
+            "anthropomorphic": "Y",
+            "emotionable": "N",
+            "technical": "N",
+            "locational": "N"
+        },
+        {
+            "segment": "sacrifices others",
+            "scifi-related": "N",
+            "anthropomorphic": "Y",
+            "emotionable": "N",
+            "technical": "N",
+            "locational": "N"
+        },
+        {
+            "segment": "makes an impossible choice",
+            "scifi-related": "N",
+            "anthropomorphic": "Y",
+            "emotionable": "N",
+            "technical": "N",
+            "locational": "N"
+        },
+        {
+            "segment": "decides what to watch",
+            "scifi-related": "N",
+            "anthropomorphic": "Y",
+            "emotionable": "N",
+            "technical": "N",
+            "locational": "N"
+        },
+        {
+            "segment": "goes for a job interview",
+            "scifi-related": "N",
+            "anthropomorphic": "Y",
+            "emotionable": "N",
+            "technical": "N",
+            "locational": "N"
+        },
+        {
+            "segment": "doesn't know what to do with their newfound power",
+            "scifi-related": "Y",
+            "anthropomorphic": "Y",
+            "emotionable": "N",
+            "technical": "N",
+            "locational": "N"
+        },
+        {
+            "segment": "can't comprehend",
+            "scifi-related": "N",
+            "anthropomorphic": "Y",
+            "emotionable": "Y",
+            "technical": "N",
+            "locational": "N"
+        },
+        {
+            "segment": "risks their life",
+            "scifi-related": "N",
+            "anthropomorphic": "Y",
+            "emotionable": "N",
+            "technical": "N",
+            "locational": "N"
+        },
+        {
+            "segment": "returns to their home planet",
+            "scifi-related": "Y",
+            "anthropomorphic": "Y",
+            "emotionable": "N",
+            "technical": "N",
+            "locational": "N"
+        },
+        {
+            "segment": "comes home",
+            "scifi-related": "N",
+            "anthropomorphic": "Y",
+            "emotionable": "N",
+            "technical": "N",
+            "locational": "N"
+        },
+        {
+            "segment": "wreaks havoc",
+            "scifi-related": "N",
+            "anthropomorphic": "Y",
+            "emotionable": "N",
+            "technical": "Y",
+            "locational": "N"
+        },
+        {
+            "segment": "faces consequences",
+            "scifi-related": "N",
+            "anthropomorphic": "Y",
+            "emotionable": "N",
+            "technical": "N",
+            "locational": "N"
+        },
+        {
+            "segment": "avenges someone",
+            "scifi-related": "N",
+            "anthropomorphic": "Y",
+            "emotionable": "N",
+            "technical": "N",
+            "locational": "N"
+        },
+        {
+            "segment": "races against time",
+            "scifi-related": "Y",
+            "anthropomorphic": "Y",
+            "emotionable": "N",
+            "technical": "N",
+            "locational": "N"
+        },
+        {
+            "segment": "doesn't understand sarcasm",
+            "scifi-related": "N",
+            "anthropomorphic": "Y",
+            "emotionable": "Y",
+            "technical": "N",
+            "locational": "N"
+        },
+        {
+            "segment": "covers up a crime",
+            "scifi-related": "N",
+            "anthropomorphic": "Y",
+            "emotionable": "N",
+            "technical": "N",
+            "locational": "N"
+        },
+        {
+            "segment": "learns to fly",
+            "scifi-related": "Y",
+            "anthropomorphic": "Y",
+            "emotionable": "N",
+            "technical": "N",
+            "locational": "N"
+        },
+        {
+            "segment": "is granted wishes",
+            "scifi-related": "Y",
+            "anthropomorphic": "Y",
+            "emotionable": "N",
+            "technical": "N",
+            "locational": "N"
+        },
+        {
+            "segment": "takes everything too literally",
+            "scifi-related": "N",
+            "anthropomorphic": "Y",
+            "emotionable": "Y",
+            "technical": "N",
+            "locational": "N"
+        },
+        {
+            "segment": "Is Abandoned",
+            "scifi-related": "N",
+            "anthropomorphic": "Y",
+            "emotionable": "Y",
+            "technical": "Y",
+            "locational": "Y"
+        },
+        {
+            "segment": "Explodes",
+            "scifi-related": "Y",
+            "anthropomorphic": "Y",
+            "emotionable": "N",
+            "technical": "Y",
+            "locational": "Y"
+        },
+        {
+            "segment": "Breaks Down",
+            "scifi-related": "N",
+            "anthropomorphic": "N",
+            "emotionable": "N",
+            "technical": "Y",
+            "locational": "Y"
+        },
+        {
+            "segment": "Loses Oxygen",
+            "scifi-related": "Y",
+            "anthropomorphic": "Y",
+            "emotionable": "N",
+            "technical": "N",
+            "locational": "Y"
+        },
+        {
+            "segment": "Fizzles Out",
+            "scifi-related": "N",
+            "anthropomorphic": "Y",
+            "emotionable": "Y",
+            "technical": "Y",
+            "locational": "Y"
+        },
+        {
+            "segment": "Goes Dark",
+            "scifi-related": "N",
+            "anthropomorphic": "Y",
+            "emotionable": "N",
+            "technical": "Y",
+            "locational": "Y"
+        },
+        {
+            "segment": "Disappears",
+            "scifi-related": "N",
+            "anthropomorphic": "Y",
+            "emotionable": "Y",
+            "technical": "Y",
+            "locational": "Y"
+        },
+        {
+            "segment": "Runs out of fuel",
+            "scifi-related": "Y",
+            "anthropomorphic": "Y",
+            "emotionable": "N",
+            "technical": "Y",
+            "locational": "Y"
+        },
+        {
+            "segment": "Becomes Omniscient",
+            "scifi-related": "Y",
+            "anthropomorphic": "Y",
+            "emotionable": "Y",
+            "technical": "Y",
+            "locational": "Y"
+        },
+        {
+            "segment": "Experiences Time Dilation",
+            "scifi-related": "Y",
+            "anthropomorphic": "Y",
+            "emotionable": "Y",
+            "technical": "N",
+            "locational": "Y"
+        },
+        {
+            "segment": "Becomes Sentient",
+            "scifi-related": "Y",
+            "anthropomorphic": "Y",
+            "emotionable": "Y",
+            "technical": "Y",
+            "locational": "Y"
+        },
+        {
+            "segment": "Evolves",
+            "scifi-related": "Y",
+            "anthropomorphic": "Y",
+            "emotionable": "Y",
+            "technical": "Y",
+            "locational": "Y"
+        },
+        {
+            "segment": "Dies",
+            "scifi-related": "N",
+            "anthropomorphic": "Y",
+            "emotionable": "N",
+            "technical": "Y",
+            "locational": "Y"
+        },
+        {
+            "segment": "... Makes you think",
+            "scifi-related": "N",
+            "anthropomorphic": "Y",
+            "emotionable": "Y",
+            "technical": "Y",
+            "locational": "Y"
+        },
+        {
+            "segment": "Transforms",
+            "scifi-related": "Y",
+            "anthropomorphic": "Y",
+            "emotionable": "Y",
+            "technical": "Y",
+            "locational": "Y"
+        },
+        {
+            "segment": "migrates",
+            "scifi-related": "Y",
+            "anthropomorphic": "Y",
+            "emotionable": "Y",
+            "technical": "N",
+            "locational": "Y"
+        },
+        {
+            "segment": "disrupts reality",
+            "scifi-related": "Y",
+            "anthropomorphic": "Y",
+            "emotionable": "Y",
+            "technical": "Y",
+            "locational": "Y"
+        },
+        {
+            "segment": "becomes overpopulated",
+            "scifi-related": "Y",
+            "anthropomorphic": "N",
+            "emotionable": "N",
+            "technical": "N",
+            "locational": "Y"
+        },
+        {
+            "segment": "survives nuclear war",
+            "scifi-related": "Y",
+            "anthropomorphic": "Y",
+            "emotionable": "N",
+            "technical": "Y",
+            "locational": "Y"
+        },
+        {
+            "segment": "regresses",
+            "scifi-related": "N",
+            "anthropomorphic": "Y",
+            "emotionable": "Y",
+            "technical": "Y",
+            "locational": "Y"
+        },
+        {
+            "segment": "changes appearance",
+            "scifi-related": "N",
+            "anthropomorphic": "Y",
+            "emotionable": "N",
+            "technical": "N",
+            "locational": "Y"
+        },
+        {
+            "segment": "rescues someone",
+            "scifi-related": "N",
+            "anthropomorphic": "Y",
+            "emotionable": "Y",
+            "technical": "N",
+            "locational": "Y"
+        },
+        {
+            "segment": "survives an invasion",
+            "scifi-related": "Y",
+            "anthropomorphic": "Y",
+            "emotionable": "N",
+            "technical": "Y",
+            "locational": "Y"
+        },
+        {
+            "segment": "is invaded",
+            "scifi-related": "Y",
+            "anthropomorphic": "N",
+            "emotionable": "N",
+            "technical": "N",
+            "locational": "Y"
+        },
+        {
+            "segment": "survives the zombie apocalypse",
+            "scifi-related": "Y",
+            "anthropomorphic": "Y",
+            "emotionable": "N",
+            "technical": "Y",
+            "locational": "Y"
+        },
+        {
+            "segment": "doesn't age",
+            "scifi-related": "Y",
+            "anthropomorphic": "Y",
+            "emotionable": "N",
+            "technical": "N",
+            "locational": "Y"
+        },
+        {
+            "segment": "is erased",
+            "scifi-related": "Y",
+            "anthropomorphic": "N",
+            "emotionable": "Y",
+            "technical": "Y",
+            "locational": "Y"
+        },
+        {
+            "segment": "isn't as it seems",
+            "scifi-related": "Y",
+            "anthropomorphic": "Y",
+            "emotionable": "Y",
+            "technical": "Y",
+            "locational": "Y"
+        },
+        {
+            "segment": "fails",
+            "scifi-related": "N",
+            "anthropomorphic": "Y",
+            "emotionable": "Y",
+            "technical": "Y",
+            "locational": "Y"
+        },
+        {
+            "segment": "faces an existential crisis",
+            "scifi-related": "Y",
+            "anthropomorphic": "Y",
+            "emotionable": "Y",
+            "technical": "N",
+            "locational": "Y"
+        },
+        {
+            "segment": "survives the apocalypse",
+            "scifi-related": "Y",
+            "anthropomorphic": "Y",
+            "emotionable": "N",
+            "technical": "Y",
+            "locational": "Y"
+        },
+        {
+            "segment": "survives a nuclear apocalypse",
+            "scifi-related": "Y",
+            "anthropomorphic": "Y",
+            "emotionable": "N",
+            "technical": "Y",
+            "locational": "Y"
+        },
+        {
+            "segment": "plunges into chaos",
+            "scifi-related": "N",
+            "anthropomorphic": "N",
+            "emotionable": "N",
+            "technical": "N",
+            "locational": "Y"
+        },
+        {
+            "segment": "becomes magic",
+            "scifi-related": "Y",
+            "anthropomorphic": "Y",
+            "emotionable": "N",
+            "technical": "Y",
+            "locational": "Y"
+        },
+        {
+            "segment": "breaks the fourth wall",
+            "scifi-related": "Y",
+            "anthropomorphic": "Y",
+            "emotionable": "Y",
+            "technical": "Y",
+            "locational": "Y"
+        },
+        {
+            "segment": "talks to the reader",
+            "scifi-related": "Y",
+            "anthropomorphic": "Y",
+            "emotionable": "Y",
+            "technical": "Y",
+            "locational": "Y"
+        },
+        {
+            "segment": "talks to god",
+            "scifi-related": "Y",
+            "anthropomorphic": "Y",
+            "emotionable": "Y",
+            "technical": "N",
+            "locational": "Y"
+        },
+        {
+            "segment": "is unaware of their surroundings",
+            "scifi-related": "N",
+            "anthropomorphic": "Y",
+            "emotionable": "N",
+            "technical": "Y",
+            "locational": "Y"
+        },
+        {
+            "segment": "is blissfully unaware",
+            "scifi-related": "N",
+            "anthropomorphic": "Y",
+            "emotionable": "Y",
+            "technical": "Y",
+            "locational": "Y"
+        },
+        {
+            "segment": "becomes giant",
+            "scifi-related": "Y",
+            "anthropomorphic": "Y",
+            "emotionable": "N",
+            "technical": "Y",
+            "locational": "Y"
+        },
+        {
+            "segment": "becomes funny",
+            "scifi-related": "N",
+            "anthropomorphic": "Y",
+            "emotionable": "Y",
+            "technical": "Y",
+            "locational": "Y"
+        },
+        {
+            "segment": "is in peril",
+            "scifi-related": "N",
+            "anthropomorphic": "Y",
+            "emotionable": "Y",
+            "technical": "N",
+            "locational": "Y"
+        },
+        {
+            "segment": "turns to the dark side",
+            "scifi-related": "Y",
+            "anthropomorphic": "Y",
+            "emotionable": "Y",
+            "technical": "N",
+            "locational": "N"
+        },
+        {
+            "segment": "uses the force (c)",
+            "scifi-related": "Y",
+            "anthropomorphic": "Y",
+            "emotionable": "Y",
+            "technical": "N",
+            "locational": "N"
+        }
+    ]
+}
