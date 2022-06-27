@@ -15,5 +15,9 @@ api = tweepy.API(auth)
 def postTweet(phrase, id):
     imgfile = './img/' + str(id) + '.png'
     media = api.media_upload(imgfile)
-    post_result = api.update_status(status=phrase, media_ids=[media.media_id])
-    print(post_result)
+    try:
+        if api.update_status(status=phrase, media_ids=[media.media_id]):
+            print("Tweet success")
+            os.remove(imgfile)
+    except tweepy.error.TweepError as e:
+        print(e)
