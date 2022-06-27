@@ -765,7 +765,7 @@
             "anthropomorphic": "Y",
             "emotionable": "Y",
             "locational": "Y",
-            "technical": "Y",
+            "technical": "N",
             "scifi-related": "Y"
         },
         {

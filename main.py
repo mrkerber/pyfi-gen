@@ -1,7 +1,13 @@
+import argparse
 from dataParser import *
+from twitterFunctions import *
 
-run_count = 1
+parser = argparse.ArgumentParser(description='Generate or Post')
+parser.add_argument('-p', '--post', action='store_true')
+args = vars(parser.parse_args())
+
 choice_path = choosePath()
+id_gen = loadGenerator("data.pickle")
 
 ### MAIN FUNCTION ###
 def buildPhrase():
@@ -22,7 +28,8 @@ def buildPhrase():
     ### REPLACE SEGMENTS UNTIL PHRASE IS LOGICAL ###
     while not phrase_logical:
         phrase = segments[choice_path.index('descriptor')]['segment'] + ' ' +  segments[choice_path.index('subject')]['segment'] + ' ' + segments[choice_path.index('action')]['segment']
-        
+        phrase = phrase.capitalize()
+
         if logic_failure == 1:
             print('\nUPDATE: 1) ' + segments[0]['segment'] + (' 2) ' + segments[1]['segment']).upper() + ' 3) ' + segments[2]['segment'])
         elif logic_failure == 2:
@@ -36,9 +43,11 @@ def buildPhrase():
 
     ### DETERMINE IF PHRASE IS SCIFI RELATED ###
     scifi_related = checkScifiRelated(segments)
-
-    ### SAVE CREATED PHRASE TO LEDGER ###
+    
+    ### SAVE PHRASE OUTPUT, IF NOT SCIFI RELATED, RERUN
     saveOutput(phrase, scifi_related)
+    if not scifi_related:
+        buildPhrase()
 
 ### FETCH SEGMENT FROM DATA PARSER ###
 def findNewSegment(index):
@@ -113,9 +122,20 @@ def saveOutput(phrase, scifi_related):
         f = open('./data/generatedPhrases.txt', 'a')
         f.write(phrase + '\n')
         f.close()
+        savePhrase(phrase)
     else:
         f = open('./data/generatedPhrasesNonScifi.txt', 'a')
         f.write(phrase + '\n')
         f.close()
 
-buildPhrase()
+if args['post']:
+    postTweet(loadPhrase(id_gen.post_id), id_gen.post_id)
+    print('tweeting: ' + loadPhrase(id_gen.post_id))
+    id_gen.iteratePost()
+else:
+    buildPhrase()
+    id_gen.iteratePhrase()
+    
+### SAVE NEW ITERATOR VALUES ###
+# print('phrase' + str(id_gen.phrase_id) + ' post' + str(id_gen.post_id))
+saveGenerator(id_gen)
