@@ -13,11 +13,15 @@ auth.set_access_token(
 api = tweepy.API(auth)
 
 def postTweet(phrase, id):
-    imgfile = './img/' + str(id) + '.png'
-    media = api.media_upload(imgfile)
+    post_img = './img/' + str(id) + '.png'
+    prior_img = './img/' + str(id - 1) + '.png'
+    media = api.media_upload(post_img)
     try:
         if api.update_status(status=phrase, media_ids=[media.media_id]):
             print("Tweet success")
-            os.remove(imgfile)
+            try:
+                os.remove(prior_img)
+            except:
+                print('!ERROR: Unable to delete image')
     except tweepy.error.TweepError as e:
         print(e)
