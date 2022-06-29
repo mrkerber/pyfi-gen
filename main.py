@@ -49,6 +49,8 @@ def buildPhrase():
     saveOutput(phrase, scifi_related)
     if not scifi_related:
         buildPhrase()
+    else:
+        print(f"\nGENERATED PHRASE: {phrase}")
 
 ### FETCH SEGMENT FROM DATA PARSER ###
 def findNewSegment(index):
@@ -140,7 +142,6 @@ elif args['image']:
         id_gen.iteratePhrase() 
     except:
         print(f'!ERROR: Phrase ID {id_gen.phrase_id} is out of bounds')
-
 else:
     buildPhrase()
     
