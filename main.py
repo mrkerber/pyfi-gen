@@ -4,6 +4,7 @@ from twitterFunctions import *
 
 parser = argparse.ArgumentParser(description='Generate or Post')
 parser.add_argument('-p', '--post', action='store_true')
+parser.add_argument('-i', '--image', action='store_true')
 args = vars(parser.parse_args())
 
 choice_path = choosePath()
@@ -132,9 +133,16 @@ if args['post']:
     postTweet(loadPhrase(id_gen.post_id), id_gen.post_id)
     print('tweeting: ' + loadPhrase(id_gen.post_id))
     id_gen.iteratePost()
+elif args['image']:
+    try:
+        print(loadPhrase(id_gen.phrase_id))
+        print(id_gen.phrase_id)
+        id_gen.iteratePhrase() 
+    except:
+        print(f'!ERROR: Phrase ID {id_gen.phrase_id} is out of bounds')
+
 else:
     buildPhrase()
-    id_gen.iteratePhrase()
     
 ### SAVE NEW ITERATOR VALUES ###
 # print('phrase' + str(id_gen.phrase_id) + ' post' + str(id_gen.post_id))

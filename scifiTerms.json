@@ -2429,7 +2429,7 @@
         {
             "segment": "infantry",
             "technical": "N",
-            "scifi-related": "N",
+            "scifi-related": "Y",
             "anthropomorphic": "Y",
             "emotionable": "Y",
             "locational": "N"
@@ -2909,7 +2909,7 @@
         {
             "segment": "physicist",
             "technical": "N",
-            "scifi-related": "N",
+            "scifi-related": "Y",
             "anthropomorphic": "Y",
             "emotionable": "Y",
             "locational": "N"
@@ -3115,7 +3115,7 @@
             "locational": "Y"
         },
         {
-            "segment": "Buildings",
+            "segment": "Building",
             "technical": "Y",
             "scifi-related": "N",
             "anthropomorphic": "N",
@@ -4486,7 +4486,7 @@
         },
         {
             "segment": "goes on a voyage",
-            "scifi-related": "N",
+            "scifi-related": "Y",
             "anthropomorphic": "Y",
             "emotionable": "N",
             "technical": "N",
@@ -5117,7 +5117,7 @@
             "locational": "Y"
         },
         {
-            "segment": "... Makes you think",
+            "segment": "... Think about it",
             "scifi-related": "N",
             "anthropomorphic": "Y",
             "emotionable": "Y",
@@ -5242,7 +5242,7 @@
             "anthropomorphic": "Y",
             "emotionable": "Y",
             "technical": "Y",
-            "locational": "Y"
+            "locational": "N"
         },
         {
             "segment": "faces an existential crisis",

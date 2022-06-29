@@ -1,4 +1,4 @@
 .env
 imgCopy/
 LOCAL-VQGAN-CLIP/
-VQGAN-CLIP
+__pycache__/
