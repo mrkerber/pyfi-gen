@@ -34,7 +34,7 @@ def loadGenerator(file):
     with open(file, "rb") as data:
         return pickle.load(data)
 class idGenerator():
-    def __init__(self, phrase_id, post_id, image_id):
+    def __init__(self, phrase_id, post_id):
         self.phrase_id = phrase_id
         self.post_id = post_id
     def iteratePhrase(self):
