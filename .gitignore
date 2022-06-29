@@ -1,2 +1,4 @@
 .env
-img copy/
+imgCopy/
+LOCAL-VQGAN-CLIP/
+VQGAN-CLIP
