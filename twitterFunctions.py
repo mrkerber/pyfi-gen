@@ -1,9 +1,9 @@
+import dotenv
 import tweepy
 from dotenv import load_dotenv
 import os
 
 load_dotenv()
-
 auth = tweepy.OAuthHandler(
     os.getenv('CONSUMER_KEY'), os.getenv('CONSUMER_SECRET')
 )
