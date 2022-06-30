@@ -15,7 +15,10 @@ api = tweepy.API(auth)
 def postTweet(phrase, id):
     post_img = './img/' + str(id) + '.png'
     prior_img = './img/' + str(id - 1) + '.png'
-    media = api.media_upload(post_img)
+    try:
+        media = api.media_upload(post_img)
+    except:
+        print('Unable to load media')
     try:
         if api.update_status(status=phrase, media_ids=[media.media_id]):
             print("Tweet success")

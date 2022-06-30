@@ -3,8 +3,10 @@ from dataParser import *
 from twitterFunctions import *
 
 parser = argparse.ArgumentParser(description='Generate or Post')
+parser.add_argument('-r', '--run', action='store_true')
 parser.add_argument('-p', '--post', action='store_true')
-parser.add_argument('-i', '--image', action='store_true')
+parser.add_argument('-n', '--next', action='store_true')
+parser.add_argument('-i', '--iterate', action='store_true')
 args = vars(parser.parse_args())
 
 choice_path = choosePath()
@@ -135,15 +137,19 @@ if args['post']:
     postTweet(loadPhrase(id_gen.post_id), id_gen.post_id)
     print('tweeting: ' + loadPhrase(id_gen.post_id))
     id_gen.iteratePost()
-elif args['image']:
+elif args['next']:
     try:
         print(loadPhrase(id_gen.phrase_id))
-        print(id_gen.phrase_id)
-        id_gen.iteratePhrase() 
+        print(id_gen.phrase_id) 
     except:
         print(f'!ERROR: Phrase ID {id_gen.phrase_id} is out of bounds')
-else:
+elif args['iterate']:
+    id_gen.iteratePhrase()
+    print('Phrase location updated')
+elif args['run']:
     buildPhrase()
+else:
+    print('Please supply an argument\n-r: Run Program\n-p: Post Tweet\n-n: Print next post\n-i: iterate phrase ID')
     
 ### SAVE NEW ITERATOR VALUES ###
 # print('phrase' + str(id_gen.phrase_id) + ' post' + str(id_gen.post_id))
