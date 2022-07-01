@@ -59,8 +59,8 @@ def loadPhrase(id):
 
 
 ### RECREATE GENERATOR ###
-# test = idGenerator(0,0)
-# saveGenerator(test)
+# newPickle = idGenerator(0,0)
+# saveGenerator(newPickle)
 
 
 # id_gen = loadGenerator("data.pickle")

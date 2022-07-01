@@ -1,0 +1,4 @@
+['Treacherous', 'overlord', 'creates a device']
+['Gravity Defying', 'alliance', 'talks to god']
+['Malicious', 'Jetpack', 'Becomes Omniscient']
+['Faster than Light', 'son', 'Writes a Novel']
