@@ -10,6 +10,9 @@ parser.add_argument('-i', '--iterate', action='store_true')
 args = vars(parser.parse_args())
 
 choice_path = choosePath()
+descriptor_index = choice_path.index('descriptor')
+subject_index = choice_path.index('subject')
+action_index = choice_path.index('action')
 id_gen = loadGenerator("data.pickle")
 
 ### MAIN FUNCTION ###
@@ -25,20 +28,22 @@ def buildPhrase():
         segments.append(findNewSegment(i))
 
     ### BUILD PHRASE BY REARRANGING SEGMENTS ###
-    phrase = segments[choice_path.index('descriptor')]['segment'] + ' ' +  segments[choice_path.index('subject')]['segment'] + ' ' + segments[choice_path.index('action')]['segment']
+    phrase = segments[descriptor_index]['segment'] + ' ' +  segments[subject_index]['segment'] + ' ' + segments[action_index]['segment']
     print('BEGIN: 1) ' + segments[0]['segment'] + ' 2) ' + segments[1]['segment'] + ' 3) ' + segments[2]['segment'])
 
     ### REPLACE SEGMENTS UNTIL PHRASE IS LOGICAL ###
     while not phrase_logical:
-        phrase = segments[choice_path.index('descriptor')]['segment'] + ' ' +  segments[choice_path.index('subject')]['segment'] + ' ' + segments[choice_path.index('action')]['segment']
+        phrase = segments[descriptor_index]['segment'] + ' ' +  segments[subject_index]['segment'] + ' ' + segments[action_index]['segment']
         phrase = phrase.capitalize()
 
-        if logic_failure == 1:
+        if logic_failure == descriptor_index:
             print('\nUPDATE: 1) ' + segments[0]['segment'] + (' 2) ' + segments[1]['segment']).upper() + ' 3) ' + segments[2]['segment'])
-        elif logic_failure == 2:
+        elif logic_failure == action_index:
             print('\nUPDATE: 1) ' + segments[0]['segment'] + (' 2) ' + segments[1]['segment']) + ' 3) ' + segments[2]['segment'].upper())
+        
         logic_failure = determinePhraseLogic(segments)
-        if logic_failure > 0:
+        
+        if logic_failure != subject_index:
             segments[logic_failure] = findNewSegment(logic_failure)
             iteration += 1
         else:
@@ -47,12 +52,17 @@ def buildPhrase():
     ### DETERMINE IF PHRASE IS SCIFI RELATED ###
     scifi_related = checkScifiRelated(segments)
     
-    ### SAVE PHRASE OUTPUT, IF NOT SCIFI RELATED, RERUN
+    ### SAVE PHRASE OUTPUT ###
     saveOutput(phrase, scifi_related)
-    if not scifi_related:
-        buildPhrase()
-    else:
-        print(f"\nGENERATED PHRASE: {phrase}")
+    print(f"\nGENERATED PHRASE: {phrase}")
+    ### IF NOT SCIFI RELATED, RERUN ###
+    # if not scifi_related:
+    #     print(f"\nGENERATED PHRASE: {phrase}")
+    #     print("Phrase is not sci-fi related. Rerolling.\n")
+    #     buildPhrase()
+    # else:
+    #     print(f"\nGENERATED PHRASE: {phrase}")
+
 
 ### FETCH SEGMENT FROM DATA PARSER ###
 def findNewSegment(index):
@@ -68,38 +78,40 @@ def findNewSegment(index):
     return segment
  
 def determinePhraseLogic(segments):
-    logic_failure = 0
+    ### SETTING THE LOGIC FAILURE TO POINT AT THE SUBJECT INDICATES THERE IS NO FAILURE ###
+    logic_failure = subject_index
 
     print(segments)
 
-    ### COMPARE FIRST AND SECOND SEGMENT ###
-    compatibility_string = compareSegmentAttributes(segments[0], segments[1])
+    ### COMPARE DESCRIPTOR AND SUBJECT ###
+    compatibility_string = compareSegmentAttributes(segments[descriptor_index], segments[subject_index])
     if compatibility_string  == '':
-        print('ERROR: Incompatible(1-2): "' + segments[0]['segment'] + '" WITH "' + segments[1]['segment'] + '"')
-        logic_failure = 1
+        print('ERROR: Incompatible(Descriptor|Subject): "' + segments[descriptor_index]['segment'] + '" WITH "' + segments[subject_index]['segment'] + '"')
+        logic_failure = descriptor_index
         return logic_failure
     else:
-        print('Compatible(1-2): ' + compatibility_string)
+        print('Compatible(Descriptor|Subject): ' + compatibility_string)
 
-    ### COMPARE FIRST AND THIRD SEGMENT ###
-    compatibility_string = compareSegmentAttributes(segments[0], segments[2])
+    ### COMPARE SUBJECT AND ACTION ###
+    compatibility_string = compareSegmentAttributes(segments[subject_index], segments[action_index])
     if compatibility_string  == '':
-        print('ERROR: Incompatible(1-3): "' + segments[0]['segment'] + '" WITH "' + segments[2]['segment'] + '"')
-        logic_failure = 2
+        print('ERROR: Incompatible(Subject|Action): "' + segments[subject_index]['segment'] + '" WITH "' + segments[action_index]['segment'] + '"')
+        logic_failure = action_index
         return logic_failure
     else:
-        print('Compatible(1-3): ' + compatibility_string)
+        print('Compatible(Subject|Action): ' + compatibility_string)
     
-    ### COMPARE SECOND AND THIRD SEGMENT ###
-    compatibility_string = compareSegmentAttributes(segments[1], segments[2])
-    if compatibility_string  == '':
-        print('ERROR: Incompatible(2-3): "' + segments[1]['segment'] + '" WITH "' + segments[2]['segment'] + '"')
-        logic_failure = 2
-        return logic_failure
-    else:
-        print('Compatible(2-3): ' + compatibility_string)
+    # ### PSUEDO CODE FOR COMPARING DESCRIPTOR AND ACTION ###
+    # compatibility_string = compareSegmentAttributes(segments[1], segments[2])
+    # if compatibility_string  == '':
+    #     print('ERROR: Incompatible(2-3): "' + segments[1]['segment'] + '" WITH "' + segments[2]['segment'] + '"')
+    #     logic_failure = 2
+    #     return logic_failure
+    # else:
+    #     print('Compatible(2-3): ' + compatibility_string)
 
-    ### IF NOT ISSUES RETURN 0 ###
+
+    ### IF NO ISSUES RETURN THE INDEX OF THE SUBJECT ###
     return logic_failure
 
 def compareSegmentAttributes(seg_a, seg_b):
@@ -123,11 +135,11 @@ def checkScifiRelated(segments):
         return True
 
 def saveOutput(phrase, scifi_related):
+    savePhrase(phrase)
     if scifi_related:
         f = open('./data/generatedPhrases.txt', 'a')
         f.write(phrase + '\n')
         f.close()
-        savePhrase(phrase)
     else:
         f = open('./data/generatedPhrasesNonScifi.txt', 'a')
         f.write(phrase + '\n')
