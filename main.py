@@ -18,7 +18,7 @@ id_gen = loadGenerator("data.pickle")
 ### MAIN FUNCTION ###
 def buildPhrase():
     segments = []
-    logic_failure = 0
+    logic_failure = subject_index
     iteration = 1
     phrase_logical = False
     phrase = ''
@@ -53,7 +53,7 @@ def buildPhrase():
     scifi_related = checkScifiRelated(segments)
     
     ### SAVE PHRASE OUTPUT ###
-    saveOutput(phrase, scifi_related)
+    saveOutput([segments[descriptor_index]['segment'],segments[subject_index]['segment'],segments[action_index]['segment']], scifi_related)
     print(f"\nGENERATED PHRASE: {phrase}")
     ### IF NOT SCIFI RELATED, RERUN ###
     # if not scifi_related:
@@ -138,11 +138,11 @@ def saveOutput(phrase, scifi_related):
     savePhrase(phrase)
     if scifi_related:
         f = open('./data/generatedPhrases.txt', 'a')
-        f.write(phrase + '\n')
+        f.write(str(phrase) + '\n')
         f.close()
     else:
         f = open('./data/generatedPhrasesNonScifi.txt', 'a')
-        f.write(phrase + '\n')
+        f.write(str(phrase) + '\n')
         f.close()
 
 if args['post']:
