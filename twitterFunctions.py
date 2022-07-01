@@ -1,4 +1,3 @@
-import dotenv
 import tweepy
 from dotenv import load_dotenv
 import os

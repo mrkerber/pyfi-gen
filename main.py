@@ -154,3 +154,5 @@ else:
 ### SAVE NEW ITERATOR VALUES ###
 # print('phrase' + str(id_gen.phrase_id) + ' post' + str(id_gen.post_id))
 saveGenerator(id_gen)
+
+# python generate.py -p "Destructive knight breaks the fourth wall" -o "../pyfi-gen/img/5.png" -i 101 -se 20 -s 512 512
