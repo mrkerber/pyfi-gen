@@ -2,4 +2,4 @@
 ['Gravity Defying', 'alliance', 'talks to god']
 ['Malicious', 'Jetpack', 'Becomes Omniscient']
 ['Faster than Light', 'son', 'Writes a Novel']
-['mesmerizing', 'conspiracy', 'talks to the reader']
+['mesmerizing', 'Flora', 'becomes immortal']

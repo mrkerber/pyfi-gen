@@ -1284,8 +1284,8 @@
             "segment": "emotionless",
             "anthropomorphic": "Y",
             "emotionable": "Y",
-            "locational": "Y",
-            "technical": "Y",
+            "locational": "N",
+            "technical": "N",
             "scifi-related": "N"
         },
         {
@@ -5289,8 +5289,8 @@
             "scifi-related": "Y",
             "anthropomorphic": "Y",
             "emotionable": "Y",
-            "technical": "Y",
-            "locational": "Y"
+            "technical": "N",
+            "locational": "N"
         },
         {
             "segment": "talks to god",
