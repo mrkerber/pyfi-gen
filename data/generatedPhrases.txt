@@ -4,3 +4,4 @@
 ['Faster than Light', 'son', 'Writes a Novel']
 ['mesmerizing', 'Flora', 'becomes immortal']
 ['impoverished', 'android', 'disrupts reality']
+['dystopian', 'carnival', 'wreaks havoc']
