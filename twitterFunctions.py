@@ -12,8 +12,8 @@ auth.set_access_token(
 api = tweepy.API(auth)
 
 def postTweet(phrase, id):
-    post_img = './img/' + str(id) + '.png'
-    prior_img = './img/' + str(id - 1) + '.png'
+    post_img = './img/' + str(id) + '.jpeg'
+    prior_img = './img/' + str(id - 1) + '.jpeg'
     try:
         media = api.media_upload(post_img)
     except:

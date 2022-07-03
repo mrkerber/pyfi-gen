@@ -8,7 +8,7 @@ from dataParser import *
 id_gen = loadGenerator("data.pickle")
 
 phrase = loadPhrase(id_gen.post_id)
-img_name = str(id_gen.post_id) + '.png'
+img_name = str(id_gen.post_id) + '.jpeg'
 
 # cmdHead = "cmd /c '"
 # cmdBody = 'python ./VQGAN-CLIP/generate.py -p "' + phrase + '" -i 2 -o "'

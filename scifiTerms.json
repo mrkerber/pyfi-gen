@@ -1589,7 +1589,7 @@
             "anthropomorphic": "Y",
             "emotionable": "Y",
             "locational": "N",
-            "technical": "Y",
+            "technical": "N",
             "scifi-related": "N"
         },
         {
@@ -3207,7 +3207,7 @@
             "technical": "N",
             "scifi-related": "Y",
             "anthropomorphic": "N",
-            "emotionable": "Y",
+            "emotionable": "N",
             "locational": "Y"
         },
         {
@@ -3287,7 +3287,7 @@
             "technical": "Y",
             "scifi-related": "Y",
             "anthropomorphic": "N",
-            "emotionable": "Y",
+            "emotionable": "N",
             "locational": "Y"
         },
         {
@@ -4197,7 +4197,7 @@
             "locational": "N"
         },
         {
-            "segment": "creates a device",
+            "segment": "creates a powerful device",
             "scifi-related": "Y",
             "anthropomorphic": "Y",
             "emotionable": "N",

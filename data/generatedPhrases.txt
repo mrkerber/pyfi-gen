@@ -1,7 +1,0 @@
-['Treacherous', 'overlord', 'creates a device']
-['Gravity Defying', 'alliance', 'talks to god']
-['Malicious', 'Jetpack', 'Becomes Omniscient']
-['Faster than Light', 'son', 'Writes a Novel']
-['mesmerizing', 'Flora', 'becomes immortal']
-['impoverished', 'android', 'disrupts reality']
-['dystopian', 'carnival', 'wreaks havoc']
