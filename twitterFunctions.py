@@ -1,6 +1,7 @@
 import tweepy
 from dotenv import load_dotenv
 import os
+from AOrAn.AOrAn import determineArticle
 
 load_dotenv()
 auth = tweepy.OAuthHandler(
@@ -14,7 +15,13 @@ api = tweepy.API(auth)
 def postTweet(phrase, id):
     post_img = './img/' + str(id) + '.jpeg'
     prior_img = './img/' + str(id - 1) + '.jpeg'
-    tweet_text = f'Prompt #{id + 1}: ' + phrase
+    first_word = phrase.split(' ')[0].split('-')[0]
+    tweet_text = f'Prompt #{id + 1}: {determineArticle(first_word)} {phrase}'
+
+        ### DETERMINE LEADING ARTICLE ###
+    
+    
+
     try:
         media = api.media_upload(post_img)
     except:
