@@ -1621,7 +1621,7 @@
             "anthropomorphic": "Y",
             "emotionable": "Y",
             "locational": "Y",
-            "technical": "Y",
+            "technical": "N",
             "scifi-related": "N"
         },
         {
@@ -3128,7 +3128,7 @@
             "scifi-related": "Y",
             "anthropomorphic": "N",
             "emotionable": "N",
-            "locational": "Y"
+            "locational": "N"
         },
         {
             "segment": "Habitat",
