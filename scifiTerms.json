@@ -1735,6 +1735,14 @@
             "locational": "Y",
             "technical": "Y",
             "scifi-related": "N"
+        },
+        {
+            "segment": "sarcastic",
+            "anthropomorphic": "Y",
+            "emotionable": "Y",
+            "locational": "N",
+            "technical": "N",
+            "scifi-related": "N"
         }
     ],
     "subject": [
@@ -5342,14 +5350,6 @@
         },
         {
             "segment": "turns to the dark side",
-            "scifi-related": "Y",
-            "anthropomorphic": "Y",
-            "emotionable": "Y",
-            "technical": "N",
-            "locational": "N"
-        },
-        {
-            "segment": "uses the force (c)",
             "scifi-related": "Y",
             "anthropomorphic": "Y",
             "emotionable": "Y",
