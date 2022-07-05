@@ -1,7 +1,8 @@
 import tweepy
 from dotenv import load_dotenv
 import os
-from AOrAn.AOrAn import determineArticle
+
+from ArticleDeterminer.AOrAn import determineArticle
 
 load_dotenv()
 auth = tweepy.OAuthHandler(
