@@ -143,7 +143,7 @@ def saveOutput(phrase, scifi_related):
 
 if args['post']:
     phraseList = loadPhrase(id_gen.post_id)
-    postTweet((phraseList[0] + ' ' + phraseList[1] + ' ' + phraseList[2]).capitalize(), id_gen.post_id)
+    postTweet((phraseList[0] + ' ' + phraseList[1] + ' ' + phraseList[2]).lower(), id_gen.post_id)
     print(('Tweeting: ' + phraseList[0] + ' ' + phraseList[1] + ' ' + phraseList[2]).lower())
     id_gen.iteratePost()
 elif args['next']:
