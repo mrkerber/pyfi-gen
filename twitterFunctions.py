@@ -17,7 +17,7 @@ def postTweet(phrase, id):
     post_img = './img/' + str(id) + '.jpeg'
     prior_img = './img/' + str(id - 1) + '.jpeg'
     first_word = phrase.split(' ')[0].split('-')[0]
-    tweet_text = f'Prompt #{id + 1}: {determineArticle(first_word)} {phrase}'
+    tweet_text = f'Prompt #{id + 1}: {determineArticle(first_word)} {phrase}.'
 
         ### DETERMINE LEADING ARTICLE ###
     

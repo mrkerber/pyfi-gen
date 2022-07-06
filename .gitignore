@@ -1,5 +1,5 @@
 .env
 imgCopy/
-LOCAL-VQGAN-CLIP/
 __pycache__/
 vid/
+words/
