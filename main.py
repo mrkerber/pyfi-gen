@@ -148,8 +148,8 @@ if args['post']:
     id_gen.iteratePost()
 elif args['next']:
     try:
-        print(loadPhrase(id_gen.phrase_id))
-        print(id_gen.phrase_id) 
+        print(f"Image: {loadPhrase(id_gen.phrase_id)} {str(id_gen.phrase_id)}")
+        print(f"Post: {loadPhrase(id_gen.post_id)} {str(id_gen.post_id)}")
     except:
         print(f'!ERROR: Phrase ID {id_gen.phrase_id} is out of bounds')
 elif args['iterate']:

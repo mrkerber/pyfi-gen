@@ -1593,12 +1593,12 @@
             "scifi-related": "N"
         },
         {
-            "segment": "literal",
+            "segment": "ethereal",
             "anthropomorphic": "Y",
             "emotionable": "Y",
             "locational": "Y",
             "technical": "Y",
-            "scifi-related": "N"
+            "scifi-related": "Y"
         },
         {
             "segment": "over-literal",
