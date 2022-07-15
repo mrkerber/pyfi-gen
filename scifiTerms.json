@@ -1130,8 +1130,8 @@
         },
         {
             "segment": "accidental",
-            "anthropomorphic": "Y",
-            "emotionable": "Y",
+            "anthropomorphic": "N",
+            "emotionable": "N",
             "locational": "Y",
             "technical": "Y",
             "scifi-related": "N"
@@ -4909,7 +4909,7 @@
             "locational": "N"
         },
         {
-            "segment": "can't comprehend",
+            "segment": "can't comprehend the state of things",
             "scifi-related": "N",
             "anthropomorphic": "Y",
             "emotionable": "Y",
