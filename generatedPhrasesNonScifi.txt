@@ -5,3 +5,4 @@
 ['dispossessed', 'mother', 'goes insane']
 ['impoverished', 'colonel', 'goes rogue']
 ['Flawed', 'mail carrier', 'defeats the evil ruler']
+['Malfunctioning', 'plane', 'is blissfully unaware']
