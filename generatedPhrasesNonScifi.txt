@@ -7,3 +7,4 @@
 ['Flawed', 'mail carrier', 'defeats the evil ruler']
 ['Malfunctioning', 'plane', 'is blissfully unaware']
 ['bizzare', 'surgeon', 'finds out they are dying']
+['conflicted', 'elder', 'hides from danger']
