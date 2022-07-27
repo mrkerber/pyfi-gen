@@ -10,3 +10,4 @@
 ['conflicted', 'elder', 'hides from danger']
 ['mesmerizing', 'army', 'goes to bootcamp']
 ['one-armed', 'liger', "can't comprehend the state of things"]
+['fearsome', 'technician', 'wreaks havoc']
