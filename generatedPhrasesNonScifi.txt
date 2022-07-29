@@ -12,3 +12,4 @@
 ['one-armed', 'liger', "can't comprehend the state of things"]
 ['fearsome', 'technician', 'wreaks havoc']
 ['unfunny', 'Servant', 'is sentenced to death']
+['Old', 'academic', 'overthrows a ruler']
