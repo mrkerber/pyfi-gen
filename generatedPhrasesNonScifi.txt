@@ -13,3 +13,4 @@
 ['fearsome', 'technician', 'wreaks havoc']
 ['unfunny', 'Servant', 'is sentenced to death']
 ['Old', 'academic', 'overthrows a ruler']
+['failing', 'Disease', 'Brings World Peace']
