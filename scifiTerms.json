@@ -3020,7 +3020,7 @@
         },
         {
             "segment": "Vacuum",
-            "technical": "Y",
+            "technical": "N",
             "scifi-related": "Y",
             "anthropomorphic": "N",
             "emotionable": "N",
@@ -5322,7 +5322,7 @@
             "anthropomorphic": "Y",
             "emotionable": "Y",
             "technical": "N",
-            "locational": "Y"
+            "locational": "N"
         },
         {
             "segment": "becomes too immense",
