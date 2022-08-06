@@ -14,3 +14,4 @@
 ['unfunny', 'Servant', 'is sentenced to death']
 ['Old', 'academic', 'overthrows a ruler']
 ['failing', 'Disease', 'Brings World Peace']
+['dense', 'Mathmetician', 'Loses Family']
