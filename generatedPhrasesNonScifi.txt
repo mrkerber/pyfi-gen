@@ -16,3 +16,4 @@
 ['failing', 'Disease', 'Brings World Peace']
 ['dense', 'Mathmetician', 'Loses Family']
 ['incredulous', 'general', 'Encites a Rebellion']
+['immobile', 'weapon', 'becomes funny']
