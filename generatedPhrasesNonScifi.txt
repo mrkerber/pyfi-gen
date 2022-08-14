@@ -17,3 +17,4 @@
 ['dense', 'Mathmetician', 'Loses Family']
 ['incredulous', 'general', 'Encites a Rebellion']
 ['immobile', 'weapon', 'becomes funny']
+['influential', 'daughter', 'does their best']
