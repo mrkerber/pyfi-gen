@@ -18,3 +18,4 @@
 ['incredulous', 'general', 'Encites a Rebellion']
 ['immobile', 'weapon', 'becomes funny']
 ['influential', 'daughter', 'does their best']
+['Illegal', 'writer', 'finds out they are dying']
