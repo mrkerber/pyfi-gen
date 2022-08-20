@@ -20,3 +20,4 @@
 ['influential', 'daughter', 'does their best']
 ['Illegal', 'writer', 'finds out they are dying']
 ['frightening', 'monk', 'races against time']
+['failing', 'sibling', 'becomes funny']
