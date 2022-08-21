@@ -21,3 +21,4 @@
 ['Illegal', 'writer', 'finds out they are dying']
 ['frightening', 'monk', 'races against time']
 ['failing', 'sibling', 'becomes funny']
+['zany', 'trooper', 'Encites a Rebellion']
