@@ -22,3 +22,4 @@
 ['frightening', 'monk', 'races against time']
 ['failing', 'sibling', 'becomes funny']
 ['zany', 'trooper', 'Encites a Rebellion']
+['zany', 'general', 'Attacks']
