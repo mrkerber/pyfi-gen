@@ -23,3 +23,4 @@
 ['failing', 'sibling', 'becomes funny']
 ['zany', 'trooper', 'Encites a Rebellion']
 ['zany', 'general', 'Attacks']
+['frightening', 'civilian', 'pledges their devotion']
