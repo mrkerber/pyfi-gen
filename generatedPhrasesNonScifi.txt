@@ -25,3 +25,4 @@
 ['zany', 'general', 'Attacks']
 ['frightening', 'civilian', 'pledges their devotion']
 ['indefinite', 'Humanity', 'Malfunctions']
+['immovable', 'monk', 'rescues someone']
