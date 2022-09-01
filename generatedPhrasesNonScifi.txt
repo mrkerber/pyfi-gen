@@ -27,3 +27,4 @@
 ['indefinite', 'Humanity', 'Malfunctions']
 ['immovable', 'monk', 'rescues someone']
 ['fearsome', 'sibling', 'has anxiety']
+['disastrous', 'Regime', 'Records History']
