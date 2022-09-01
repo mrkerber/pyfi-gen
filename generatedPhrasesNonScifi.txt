@@ -26,3 +26,4 @@
 ['frightening', 'civilian', 'pledges their devotion']
 ['indefinite', 'Humanity', 'Malfunctions']
 ['immovable', 'monk', 'rescues someone']
+['fearsome', 'sibling', 'has anxiety']
