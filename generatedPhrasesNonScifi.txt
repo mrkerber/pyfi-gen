@@ -28,3 +28,4 @@
 ['immovable', 'monk', 'rescues someone']
 ['fearsome', 'sibling', 'has anxiety']
 ['disastrous', 'Regime', 'Records History']
+['Flawed', 'special operative', 'undergoes brain surgery']
