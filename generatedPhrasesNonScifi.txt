@@ -29,3 +29,4 @@
 ['fearsome', 'sibling', 'has anxiety']
 ['disastrous', 'Regime', 'Records History']
 ['Flawed', 'special operative', 'undergoes brain surgery']
+['conflicted', 'monk', 'Tries to Survive']
