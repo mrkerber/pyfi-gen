@@ -31,3 +31,4 @@
 ['Flawed', 'special operative', 'undergoes brain surgery']
 ['conflicted', 'monk', 'Tries to Survive']
 ['desperate', 'daughter', 'Goes it Alone']
+['dense', 'student', 'decides what to watch']
