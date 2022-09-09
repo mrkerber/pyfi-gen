@@ -32,3 +32,4 @@
 ['conflicted', 'monk', 'Tries to Survive']
 ['desperate', 'daughter', 'Goes it Alone']
 ['dense', 'student', 'decides what to watch']
+['totally tubular', 'Assassin', 'Goes to War']
