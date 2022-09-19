@@ -34,3 +34,4 @@
 ['dense', 'student', 'decides what to watch']
 ['totally tubular', 'Assassin', 'Goes to War']
 ['ailing', 'farmer', 'sacrifices themself']
+['extraordinary', 'colonel', 'Gains Freedom']
