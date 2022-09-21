@@ -35,3 +35,4 @@
 ['totally tubular', 'Assassin', 'Goes to War']
 ['ailing', 'farmer', 'sacrifices themself']
 ['extraordinary', 'colonel', 'Gains Freedom']
+['disease-ridden', 'ally', 'Fails an examination']
