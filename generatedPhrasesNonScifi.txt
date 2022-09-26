@@ -36,3 +36,4 @@
 ['ailing', 'farmer', 'sacrifices themself']
 ['extraordinary', 'colonel', 'Gains Freedom']
 ['disease-ridden', 'ally', 'Fails an examination']
+['Friendly', 'recruit', 'covers up a crime']
