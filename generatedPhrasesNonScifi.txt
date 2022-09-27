@@ -38,3 +38,4 @@
 ['disease-ridden', 'ally', 'Fails an examination']
 ['Friendly', 'recruit', 'covers up a crime']
 ['nineteenth-century', 'dictator', 'Overthrows an oppressive regime']
+['exiled', 'tortoise', 'avenges someone']
