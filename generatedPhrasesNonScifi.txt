@@ -37,3 +37,4 @@
 ['extraordinary', 'colonel', 'Gains Freedom']
 ['disease-ridden', 'ally', 'Fails an examination']
 ['Friendly', 'recruit', 'covers up a crime']
+['nineteenth-century', 'dictator', 'Overthrows an oppressive regime']
