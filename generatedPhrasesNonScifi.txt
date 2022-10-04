@@ -40,3 +40,4 @@
 ['nineteenth-century', 'dictator', 'Overthrows an oppressive regime']
 ['exiled', 'tortoise', 'avenges someone']
 ['begrudging', 'mother', 'skips work']
+['dense', 'sibling', 'is pardoned']
